@@ -1,0 +1,823 @@
+{
+ "generated": "2026-10-11T01:13:40.363Z",
+ "showsUpdated": "2026-10-10T22:30:00Z",
+ "roster": [
+  {
+   "id": "99040",
+   "name": "Silverstein",
+   "sp_monthly_listeners": 1685886,
+   "sp_monthly_listeners_30d": 48281,
+   "sp_followers": 930134,
+   "sp_followers_30d": 10365,
+   "ins_followers": 315123,
+   "ins_followers_30d": 9852,
+   "tiktok_followers": 95132,
+   "tiktok_followers_30d": 4111,
+   "ycs_subscribers": 223000,
+   "ycs_subscribers_30d": 3000,
+   "sp_monthly_listeners_30d_pct": 2.9483
+  },
+  {
+   "id": "107586",
+   "name": "The Plot In You",
+   "sp_monthly_listeners": 3177834,
+   "sp_monthly_listeners_30d": 5863,
+   "sp_followers": 761900,
+   "sp_followers_30d": 11474,
+   "ins_followers": 351124,
+   "ins_followers_30d": 12738,
+   "tiktok_followers": 189760,
+   "tiktok_followers_30d": 3477,
+   "ycs_subscribers": 175000,
+   "ycs_subscribers_30d": 2000,
+   "sp_monthly_listeners_30d_pct": 0.1848
+  },
+  {
+   "id": "29919",
+   "name": "The Devil Wears Prada",
+   "sp_monthly_listeners": 1240358,
+   "sp_monthly_listeners_30d": 95354,
+   "sp_followers": 781631,
+   "sp_followers_30d": 4840,
+   "ins_followers": 295189,
+   "ins_followers_30d": 3889,
+   "tiktok_followers": 41121,
+   "tiktok_followers_30d": 136,
+   "ycs_subscribers": 181000,
+   "ycs_subscribers_30d": 1000,
+   "sp_monthly_listeners_30d_pct": 8.3278
+  },
+  {
+   "id": "208422",
+   "name": "We Came As Romans",
+   "sp_monthly_listeners": 2456362,
+   "sp_monthly_listeners_30d": 205932,
+   "sp_followers": 1012930,
+   "sp_followers_30d": 6651,
+   "ins_followers": 284912,
+   "ins_followers_30d": 2989,
+   "tiktok_followers": 64917,
+   "tiktok_followers_30d": 776,
+   "ycs_subscribers": 129000,
+   "ycs_subscribers_30d": 2000,
+   "sp_monthly_listeners_30d_pct": 9.1508
+  },
+  {
+   "id": "1780",
+   "name": "Saosin",
+   "sp_monthly_listeners": 1356537,
+   "sp_monthly_listeners_30d": 146642,
+   "sp_followers": 640872,
+   "sp_followers_30d": 7862,
+   "ins_followers": 216542,
+   "ins_followers_30d": 8584,
+   "tiktok_followers": null,
+   "tiktok_followers_30d": null,
+   "ycs_subscribers": 144000,
+   "ycs_subscribers_30d": 2000,
+   "sp_monthly_listeners_30d_pct": 12.1202
+  },
+  {
+   "id": "59542",
+   "name": "Four Year Strong",
+   "sp_monthly_listeners": 296901,
+   "sp_monthly_listeners_30d": -4418,
+   "sp_followers": 274736,
+   "sp_followers_30d": 927,
+   "ins_followers": 109654,
+   "ins_followers_30d": 809,
+   "tiktok_followers": 5839,
+   "tiktok_followers_30d": 265,
+   "ycs_subscribers": 44300,
+   "ycs_subscribers_30d": 200,
+   "sp_monthly_listeners_30d_pct": -1.4662
+  },
+  {
+   "id": "1710599",
+   "name": "Arm's Length",
+   "sp_monthly_listeners": 220969,
+   "sp_monthly_listeners_30d": -1903,
+   "sp_followers": 76450,
+   "sp_followers_30d": 1257,
+   "ins_followers": 54752,
+   "ins_followers_30d": 1618,
+   "tiktok_followers": 12135,
+   "tiktok_followers_30d": 88,
+   "ycs_subscribers": null,
+   "ycs_subscribers_30d": null,
+   "sp_monthly_listeners_30d_pct": -0.8539
+  },
+  {
+   "id": "470827",
+   "name": "August Burns Red",
+   "sp_monthly_listeners": 690739,
+   "sp_monthly_listeners_30d": -28441,
+   "sp_followers": 818393,
+   "sp_followers_30d": 3462,
+   "ins_followers": 386239,
+   "ins_followers_30d": 2142,
+   "tiktok_followers": 84159,
+   "tiktok_followers_30d": 224,
+   "ycs_subscribers": 209000,
+   "ycs_subscribers_30d": 0,
+   "sp_monthly_listeners_30d_pct": -3.9546
+  },
+  {
+   "id": "555867",
+   "name": "Drug Church",
+   "sp_monthly_listeners": 124317,
+   "sp_monthly_listeners_30d": -1646,
+   "sp_followers": 111945,
+   "sp_followers_30d": 961,
+   "ins_followers": 74958,
+   "ins_followers_30d": 1198,
+   "tiktok_followers": 1576,
+   "tiktok_followers_30d": 26,
+   "ycs_subscribers": 2940,
+   "ycs_subscribers_30d": 0,
+   "sp_monthly_listeners_30d_pct": -1.3067
+  },
+  {
+   "id": "66624",
+   "name": "Intervals",
+   "sp_monthly_listeners": 210704,
+   "sp_monthly_listeners_30d": -11885,
+   "sp_followers": 230720,
+   "sp_followers_30d": 630,
+   "ins_followers": 165327,
+   "ins_followers_30d": -57,
+   "tiktok_followers": null,
+   "tiktok_followers_30d": null,
+   "ycs_subscribers": null,
+   "ycs_subscribers_30d": null,
+   "sp_monthly_listeners_30d_pct": -5.3394
+  },
+  {
+   "id": "484706",
+   "name": "Like Moths To Flames",
+   "sp_monthly_listeners": 576751,
+   "sp_monthly_listeners_30d": 19111,
+   "sp_followers": 316323,
+   "sp_followers_30d": 3631,
+   "ins_followers": 93582,
+   "ins_followers_30d": 3402,
+   "tiktok_followers": null,
+   "tiktok_followers_30d": null,
+   "ycs_subscribers": 8630,
+   "ycs_subscribers_30d": -10,
+   "sp_monthly_listeners_30d_pct": 3.4271
+  },
+  {
+   "id": "155926",
+   "name": "Miss May I",
+   "sp_monthly_listeners": 670931,
+   "sp_monthly_listeners_30d": 46894,
+   "sp_followers": 556311,
+   "sp_followers_30d": 2560,
+   "ins_followers": 170339,
+   "ins_followers_30d": 968,
+   "tiktok_followers": 16080,
+   "tiktok_followers_30d": 1253,
+   "ycs_subscribers": 48400,
+   "ycs_subscribers_30d": 900,
+   "sp_monthly_listeners_30d_pct": 7.5146
+  },
+  {
+   "id": "273408",
+   "name": "Landon Tewers",
+   "sp_monthly_listeners": 181407,
+   "sp_monthly_listeners_30d": -16096,
+   "sp_followers": 79209,
+   "sp_followers_30d": 412,
+   "ins_followers": 81771,
+   "ins_followers_30d": 1134,
+   "tiktok_followers": null,
+   "tiktok_followers_30d": null,
+   "ycs_subscribers": 59200,
+   "ycs_subscribers_30d": 100,
+   "sp_monthly_listeners_30d_pct": -8.1261
+  },
+  {
+   "id": "572295",
+   "name": "Belmont",
+   "sp_monthly_listeners": 167609,
+   "sp_monthly_listeners_30d": 1004,
+   "sp_followers": 131133,
+   "sp_followers_30d": 794,
+   "ins_followers": 70146,
+   "ins_followers_30d": 1110,
+   "tiktok_followers": 13207,
+   "tiktok_followers_30d": 33,
+   "ycs_subscribers": 6840,
+   "ycs_subscribers_30d": 40,
+   "sp_monthly_listeners_30d_pct": 0.6026
+  },
+  {
+   "id": "216347",
+   "name": "Kingdom Of Giants",
+   "sp_monthly_listeners": 467050,
+   "sp_monthly_listeners_30d": 29602,
+   "sp_followers": 147199,
+   "sp_followers_30d": 2647,
+   "ins_followers": 51226,
+   "ins_followers_30d": 1424,
+   "tiktok_followers": null,
+   "tiktok_followers_30d": null,
+   "ycs_subscribers": 10600,
+   "ycs_subscribers_30d": 300,
+   "sp_monthly_listeners_30d_pct": 6.767
+  },
+  {
+   "id": "1460954",
+   "name": "Second Harbour",
+   "sp_monthly_listeners": 26795,
+   "sp_monthly_listeners_30d": -7767,
+   "sp_followers": 12357,
+   "sp_followers_30d": 138,
+   "ins_followers": 29692,
+   "ins_followers_30d": -56,
+   "tiktok_followers": null,
+   "tiktok_followers_30d": null,
+   "ycs_subscribers": 894,
+   "ycs_subscribers_30d": 13,
+   "sp_monthly_listeners_30d_pct": -22.4727
+  },
+  {
+   "id": "8475583",
+   "name": "Spite House",
+   "sp_monthly_listeners": 17604,
+   "sp_monthly_listeners_30d": -2034,
+   "sp_followers": 13583,
+   "sp_followers_30d": 395,
+   "ins_followers": 8218,
+   "ins_followers_30d": 110,
+   "tiktok_followers": null,
+   "tiktok_followers_30d": null,
+   "ycs_subscribers": null,
+   "ycs_subscribers_30d": null,
+   "sp_monthly_listeners_30d_pct": -10.3575
+  },
+  {
+   "id": "59508",
+   "name": "Bearings",
+   "sp_monthly_listeners": 70946,
+   "sp_monthly_listeners_30d": -1358,
+   "sp_followers": 40967,
+   "sp_followers_30d": 192,
+   "ins_followers": 35036,
+   "ins_followers_30d": 95,
+   "tiktok_followers": 5654,
+   "tiktok_followers_30d": -2,
+   "ycs_subscribers": null,
+   "ycs_subscribers_30d": null,
+   "sp_monthly_listeners_30d_pct": -1.8782
+  },
+  {
+   "id": "385700",
+   "name": "Acres",
+   "sp_monthly_listeners": 234867,
+   "sp_monthly_listeners_30d": 37611,
+   "sp_followers": 61742,
+   "sp_followers_30d": 1564,
+   "ins_followers": null,
+   "ins_followers_30d": null,
+   "tiktok_followers": 54430,
+   "tiktok_followers_30d": 60,
+   "ycs_subscribers": 7010,
+   "ycs_subscribers_30d": 20,
+   "sp_monthly_listeners_30d_pct": 19.0671
+  },
+  {
+   "id": "145507",
+   "name": "Rarity",
+   "sp_monthly_listeners": 44952,
+   "sp_monthly_listeners_30d": -1066,
+   "sp_followers": 35432,
+   "sp_followers_30d": 107,
+   "ins_followers": 10823,
+   "ins_followers_30d": -19,
+   "tiktok_followers": null,
+   "tiktok_followers_30d": null,
+   "ycs_subscribers": 3250,
+   "ycs_subscribers_30d": 10,
+   "sp_monthly_listeners_30d_pct": -2.3165
+  },
+  {
+   "id": "9920273",
+   "name": "Roman Candle",
+   "sp_monthly_listeners": 31456,
+   "sp_monthly_listeners_30d": -135,
+   "sp_followers": 25188,
+   "sp_followers_30d": 526,
+   "ins_followers": 22517,
+   "ins_followers_30d": 299,
+   "tiktok_followers": null,
+   "tiktok_followers_30d": null,
+   "ycs_subscribers": 1270,
+   "ycs_subscribers_30d": 30,
+   "sp_monthly_listeners_30d_pct": -0.4273
+  },
+  {
+   "id": "866342",
+   "name": "House & Home",
+   "sp_monthly_listeners": 35533,
+   "sp_monthly_listeners_30d": 2141,
+   "sp_followers": 30056,
+   "sp_followers_30d": 249,
+   "ins_followers": 18007,
+   "ins_followers_30d": 138,
+   "tiktok_followers": 336,
+   "tiktok_followers_30d": 3,
+   "ycs_subscribers": null,
+   "ycs_subscribers_30d": null,
+   "sp_monthly_listeners_30d_pct": 6.4117
+  },
+  {
+   "id": "10907298",
+   "name": "SAVE US",
+   "sp_monthly_listeners": 426779,
+   "sp_monthly_listeners_30d": -33475,
+   "sp_followers": 39811,
+   "sp_followers_30d": 1859,
+   "ins_followers": 13049,
+   "ins_followers_30d": 494,
+   "tiktok_followers": null,
+   "tiktok_followers_30d": null,
+   "ycs_subscribers": 2920,
+   "ycs_subscribers_30d": 140,
+   "sp_monthly_listeners_30d_pct": -7.2732
+  },
+  {
+   "id": "9455958",
+   "name": "Harper",
+   "sp_monthly_listeners": 33123,
+   "sp_monthly_listeners_30d": -1624,
+   "sp_followers": 48853,
+   "sp_followers_30d": 90,
+   "ins_followers": 139150,
+   "ins_followers_30d": -490,
+   "tiktok_followers": null,
+   "tiktok_followers_30d": null,
+   "ycs_subscribers": 92000,
+   "ycs_subscribers_30d": 200,
+   "sp_monthly_listeners_30d_pct": -4.6738
+  }
+ ],
+ "shows": [
+  {
+   "event_id": "108369065",
+   "artist_id": "1780",
+   "day": "2026-10-23",
+   "city": "Anaheim, CA",
+   "venue": "House of Blues Anaheim"
+  },
+  {
+   "event_id": "108369077",
+   "artist_id": "1780",
+   "day": "2026-10-24",
+   "city": "Tempe, AZ",
+   "venue": "Marquee Theatre"
+  },
+  {
+   "event_id": "107702236",
+   "artist_id": "29919",
+   "day": "2026-10-10",
+   "city": "Eindhoven, Netherlands",
+   "venue": "Effenaar"
+  },
+  {
+   "event_id": "107702238",
+   "artist_id": "29919",
+   "day": "2026-10-12",
+   "city": "Vienna, Austria",
+   "venue": "Simm City"
+  },
+  {
+   "event_id": "107702243",
+   "artist_id": "29919",
+   "day": "2026-10-13",
+   "city": "Leipzig, Germany",
+   "venue": "Felsenkeller Leipzig"
+  },
+  {
+   "event_id": "107702251",
+   "artist_id": "29919",
+   "day": "2026-10-14",
+   "city": "Praha, Czechia",
+   "venue": "ARCHA+"
+  },
+  {
+   "event_id": "107702252",
+   "artist_id": "29919",
+   "day": "2026-10-16",
+   "city": "Köln, Germany",
+   "venue": "E-Werk"
+  },
+  {
+   "event_id": "107702254",
+   "artist_id": "29919",
+   "day": "2026-10-17",
+   "city": "Antwerpen, Belgium",
+   "venue": "Kavka Zappa"
+  },
+  {
+   "event_id": "107702260",
+   "artist_id": "29919",
+   "day": "2026-10-18",
+   "city": "Paris, France",
+   "venue": "Élysée Montmartre"
+  },
+  {
+   "event_id": "107702267",
+   "artist_id": "29919",
+   "day": "2026-10-20",
+   "city": "Bristol, United Kingdom",
+   "venue": "Electric Bristol"
+  },
+  {
+   "event_id": "107702270",
+   "artist_id": "29919",
+   "day": "2026-10-21",
+   "city": "Leeds, United Kingdom",
+   "venue": "Project House"
+  },
+  {
+   "event_id": "107702273",
+   "artist_id": "29919",
+   "day": "2026-10-23",
+   "city": "London, United Kingdom",
+   "venue": "Electric Brixton"
+  },
+  {
+   "event_id": "107702277",
+   "artist_id": "29919",
+   "day": "2026-10-24",
+   "city": "Manchester, United Kingdom",
+   "venue": "New Century Hall"
+  },
+  {
+   "event_id": "108983852",
+   "artist_id": "59542",
+   "day": "2026-10-16",
+   "city": "Massapequa, NY",
+   "venue": "VFW Post # 7277"
+  },
+  {
+   "event_id": "108983859",
+   "artist_id": "59542",
+   "day": "2026-10-17",
+   "city": "Garwood, NJ",
+   "venue": "Crossroads"
+  },
+  {
+   "event_id": "1040417524",
+   "artist_id": "107586",
+   "day": "2026-10-10",
+   "city": "Memphis, TN",
+   "venue": "Satellite Music Hall"
+  },
+  {
+   "event_id": "108400444",
+   "artist_id": "208422",
+   "day": "2026-10-10",
+   "city": "Birmingham, AL",
+   "venue": "Sloss Furnaces National Historic Landmark"
+  },
+  {
+   "event_id": "108540298",
+   "artist_id": "208422",
+   "day": "2026-10-22",
+   "city": "Louisville, KY",
+   "venue": "Mercury Ballroom"
+  },
+  {
+   "event_id": "108540305",
+   "artist_id": "208422",
+   "day": "2026-10-23",
+   "city": "Memphis, TN",
+   "venue": "Satellite Music Hall"
+  },
+  {
+   "event_id": "108540310",
+   "artist_id": "208422",
+   "day": "2026-10-24",
+   "city": "New Orleans, LA",
+   "venue": "House of Blues New Orleans"
+  },
+  {
+   "event_id": "108286619",
+   "artist_id": "385700",
+   "day": "2026-10-14",
+   "city": "Bristol, United Kingdom",
+   "venue": "Exchange"
+  },
+  {
+   "event_id": "108286625",
+   "artist_id": "385700",
+   "day": "2026-10-15",
+   "city": "Leeds, United Kingdom",
+   "venue": "The Key Club"
+  },
+  {
+   "event_id": "108286629",
+   "artist_id": "385700",
+   "day": "2026-10-16",
+   "city": "Manchester, United Kingdom",
+   "venue": "Rebellion"
+  },
+  {
+   "event_id": "108286631",
+   "artist_id": "385700",
+   "day": "2026-10-17",
+   "city": "London, United Kingdom",
+   "venue": "The Dome"
+  },
+  {
+   "event_id": "108286636",
+   "artist_id": "385700",
+   "day": "2026-10-18",
+   "city": "Southampton, United Kingdom",
+   "venue": "The Joiners"
+  },
+  {
+   "event_id": "108286639",
+   "artist_id": "385700",
+   "day": "2026-10-20",
+   "city": "Antwerp, Belgium",
+   "venue": "Kavka"
+  },
+  {
+   "event_id": "108286648",
+   "artist_id": "385700",
+   "day": "2026-10-21",
+   "city": "Utrecht, Netherlands",
+   "venue": "De Helling"
+  },
+  {
+   "event_id": "108286651",
+   "artist_id": "385700",
+   "day": "2026-10-22",
+   "city": "Hamburg, Germany",
+   "venue": "Monkeys Music Club"
+  },
+  {
+   "event_id": "108286657",
+   "artist_id": "385700",
+   "day": "2026-10-23",
+   "city": "Berlin, Germany",
+   "venue": "Cassiopeia"
+  },
+  {
+   "event_id": "108286659",
+   "artist_id": "385700",
+   "day": "2026-10-24",
+   "city": "Leipzig, Germany",
+   "venue": "Naumannsche Brauerei"
+  },
+  {
+   "event_id": "108362862",
+   "artist_id": "484706",
+   "day": "2026-10-23",
+   "city": "Anaheim, CA",
+   "venue": "House of Blues Anaheim"
+  },
+  {
+   "event_id": "108362880",
+   "artist_id": "484706",
+   "day": "2026-10-24",
+   "city": "Tempe, AZ",
+   "venue": "Marquee Theatre"
+  },
+  {
+   "event_id": "108693887",
+   "artist_id": "572295",
+   "day": "2026-10-10",
+   "city": "San Antonio, TX",
+   "venue": "Vibes Event Center"
+  },
+  {
+   "event_id": "108693888",
+   "artist_id": "572295",
+   "day": "2026-10-11",
+   "city": "Dallas, TX",
+   "venue": "Puzzles Deep Ellum"
+  },
+  {
+   "event_id": "108693890",
+   "artist_id": "572295",
+   "day": "2026-10-12",
+   "city": "Austin, TX",
+   "venue": "CATIL"
+  },
+  {
+   "event_id": "108693884",
+   "artist_id": "572295",
+   "day": "2026-10-14",
+   "city": "Oklahoma City, OK",
+   "venue": "89th Street - OKC"
+  },
+  {
+   "event_id": "108693892",
+   "artist_id": "572295",
+   "day": "2026-10-15",
+   "city": "Tulsa, OK",
+   "venue": "Vanguard"
+  },
+  {
+   "event_id": "108693889",
+   "artist_id": "572295",
+   "day": "2026-10-16",
+   "city": "Springfield, MO",
+   "venue": "Moontown Sound"
+  },
+  {
+   "event_id": "108802966",
+   "artist_id": "572295",
+   "day": "2026-10-17",
+   "city": "Nashville, TN",
+   "venue": "Cannery Hall"
+  },
+  {
+   "event_id": "1039456638",
+   "artist_id": "866342",
+   "day": "2026-10-10",
+   "city": "Greensboro, NC",
+   "venue": "The Pyrle"
+  },
+  {
+   "event_id": "1039449219",
+   "artist_id": "866342",
+   "day": "2026-10-11",
+   "city": "Allentown, PA",
+   "venue": "Archer Music Hall"
+  },
+  {
+   "event_id": "1039448763",
+   "artist_id": "866342",
+   "day": "2026-10-13",
+   "city": "New York, NY",
+   "venue": "Irving Plaza"
+  },
+  {
+   "event_id": "1039456625",
+   "artist_id": "866342",
+   "day": "2026-10-14",
+   "city": "Worcester, MA",
+   "venue": "Palladium"
+  },
+  {
+   "event_id": "1039448522",
+   "artist_id": "866342",
+   "day": "2026-10-15",
+   "city": "McKees Rocks, PA",
+   "venue": "Roxian Theatre Presented by Citizens"
+  },
+  {
+   "event_id": "108927120",
+   "artist_id": "1460954",
+   "day": "2026-10-17",
+   "city": "Nashville, TN",
+   "venue": "Cannery Hall"
+  },
+  {
+   "event_id": "108554716",
+   "artist_id": "1710599",
+   "day": "2026-10-10",
+   "city": "Greensboro, NC",
+   "venue": "The Pyrle"
+  },
+  {
+   "event_id": "108554727",
+   "artist_id": "1710599",
+   "day": "2026-10-11",
+   "city": "Allentown, PA",
+   "venue": "Archer Music Hall"
+  },
+  {
+   "event_id": "108554721",
+   "artist_id": "1710599",
+   "day": "2026-10-13",
+   "city": "New York, NY",
+   "venue": "Irving Plaza"
+  },
+  {
+   "event_id": "108554719",
+   "artist_id": "1710599",
+   "day": "2026-10-14",
+   "city": "Worcester, MA",
+   "venue": "Palladium"
+  },
+  {
+   "event_id": "108554728",
+   "artist_id": "1710599",
+   "day": "2026-10-15",
+   "city": "McKees Rocks, PA",
+   "venue": "Roxian Theatre Presented by Citizens"
+  },
+  {
+   "event_id": "108558524",
+   "artist_id": "1710599",
+   "day": "2026-10-17",
+   "city": "Nashville, TN",
+   "venue": "Cannery Hall"
+  },
+  {
+   "event_id": "108868656",
+   "artist_id": "8475583",
+   "day": "2026-10-10",
+   "city": "Wichita, KS",
+   "venue": "The Furnace"
+  },
+  {
+   "event_id": "108868657",
+   "artist_id": "8475583",
+   "day": "2026-10-12",
+   "city": "Chicago, IL",
+   "venue": "Subterranean"
+  },
+  {
+   "event_id": "108868664",
+   "artist_id": "8475583",
+   "day": "2026-10-13",
+   "city": "Clinton Township, MI",
+   "venue": "Edgemen Screenprinting & Embroidery"
+  },
+  {
+   "event_id": "108868667",
+   "artist_id": "8475583",
+   "day": "2026-10-15",
+   "city": "Montreal, QC",
+   "venue": "Newspeak"
+  },
+  {
+   "event_id": "108868668",
+   "artist_id": "8475583",
+   "day": "2026-10-16",
+   "city": "Toronto, ON",
+   "venue": "Hard Luck Bar"
+  },
+  {
+   "event_id": "108868669",
+   "artist_id": "8475583",
+   "day": "2026-10-17",
+   "city": "New Kensington, PA",
+   "venue": "Preserving"
+  },
+  {
+   "event_id": "108868674",
+   "artist_id": "8475583",
+   "day": "2026-10-18",
+   "city": "Brooklyn, NY",
+   "venue": "Saint Vitus"
+  },
+  {
+   "event_id": "108868677",
+   "artist_id": "8475583",
+   "day": "2026-10-19",
+   "city": "Baltimore, MD",
+   "venue": "Ottobar"
+  },
+  {
+   "event_id": "108868679",
+   "artist_id": "8475583",
+   "day": "2026-10-20",
+   "city": "Philadelphia, PA",
+   "venue": "First Unitarian Church"
+  },
+  {
+   "event_id": "108868683",
+   "artist_id": "8475583",
+   "day": "2026-10-21",
+   "city": "Cleveland, OH",
+   "venue": "No Class"
+  },
+  {
+   "event_id": "1040159133",
+   "artist_id": "8475583",
+   "day": "2026-10-23",
+   "city": "North Kansas City, MO",
+   "venue": "The Rino"
+  },
+  {
+   "event_id": "108868687",
+   "artist_id": "8475583",
+   "day": "2026-10-24",
+   "city": "Denver, CO",
+   "venue": "D3 Arts"
+  },
+  {
+   "event_id": "1038990056",
+   "artist_id": "10907298",
+   "day": "2026-10-23",
+   "city": "Anaheim, CA",
+   "venue": "House of Blues Anaheim"
+  },
+  {
+   "event_id": "1038990350",
+   "artist_id": "10907298",
+   "day": "2026-10-24",
+   "city": "Tempe, AZ",
+   "venue": "Marquee Theatre"
+  }
+ ]
+}
