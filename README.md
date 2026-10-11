@@ -1,6 +1,6 @@
 # Tandem roster stats data
 
-This repository holds two data files. `data.json` holds the numbers shown on the Tandem Management Co. roster stats page: streaming and
+This repository holds three data files. `data.json` holds the numbers shown on the Tandem Management Co. roster stats page: streaming and
 social stats for the 24 roster artists (from Chartmetric) and their upcoming shows (from Bandsintown).
 The page reads this file each time it opens.
 
@@ -10,5 +10,9 @@ The page reads this file each time it opens.
   page. It is rewritten every Tuesday morning by a scheduled Claude task, which also adds one point to
   its `history` for the trend charts.
 - `scripts/build-plot-in-you.js` builds `plot-in-you.json` from the same Chartmetric answer.
+- `four-year-strong.json` holds the same streaming and social stats for the public Four Year Strong
+  stats page. It is rewritten every Monday morning by a scheduled Claude task.
+- `scripts/build-four-year-strong.js` builds `four-year-strong.json`.
+- `scripts/artist-page.js` is the shared code behind both single-artist build scripts.
 
 Everything in this repository is public. Nothing private (sales, contracts, contact details) belongs here.
