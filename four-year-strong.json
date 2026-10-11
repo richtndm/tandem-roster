@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T01:40:13.188Z",
+ "generated": "2026-10-11T02:22:04.543Z",
  "artist": {
   "id": "59542",
   "name": "Four Year Strong"
@@ -493,22 +493,16 @@
     "monthly_streams": 42256
    },
    {
+    "name": "She's So High",
+    "year": 2009,
+    "weekly_streams": 11155,
+    "monthly_streams": 36442
+   },
+   {
     "name": "Love Song",
     "year": 2009,
     "weekly_streams": 10394,
     "monthly_streams": 35555
-   },
-   {
-    "name": "Beatdown in the Key of Happy",
-    "year": 2007,
-    "weekly_streams": 7301,
-    "monthly_streams": 29419
-   },
-   {
-    "name": "Go Down in History",
-    "year": 2015,
-    "weekly_streams": 6945,
-    "monthly_streams": 26887
    }
   ],
   "cities": [
