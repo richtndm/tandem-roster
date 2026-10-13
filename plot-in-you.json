@@ -1,180 +1,180 @@
 {
- "generated": "2026-10-11T02:22:37.395Z",
+ "generated": "2026-10-13T10:36:27.323Z",
  "artist": {
   "id": "107586",
   "name": "The Plot In You"
  },
  "metrics": {
   "airplay_streams": {
-   "value": 10302,
-   "d7": 8,
-   "d7pct": 0.0777,
-   "d30": 30,
-   "d30pct": 0.2921,
-   "d60": 87,
-   "d60pct": 0.8524
+   "value": 10303,
+   "d7": 6,
+   "d7pct": 0.0583,
+   "d30": 25,
+   "d30pct": 0.2432,
+   "d60": 85,
+   "d60pct": 0.8319
   },
   "deezer_ed_playlist_total_reach": {
-   "value": 219934,
-   "d7": 80,
-   "d7pct": 0.0364,
-   "d30": 378,
-   "d30pct": 0.1722,
-   "d60": -106736,
-   "d60pct": -32.682
+   "value": 219963,
+   "d7": 82,
+   "d7pct": 0.0373,
+   "d30": 364,
+   "d30pct": 0.1658,
+   "d60": -106816,
+   "d60pct": -32.6904
   },
   "deezer_fans": {
-   "value": 32878,
-   "d7": 114,
-   "d7pct": 0.3479,
-   "d30": 505,
-   "d30pct": 1.5599,
-   "d60": 1226,
-   "d60pct": 3.8874
+   "value": 32925,
+   "d7": 112,
+   "d7pct": 0.3413,
+   "d30": 498,
+   "d30pct": 1.5358,
+   "d60": 1165,
+   "d60pct": 3.6736
   },
-  "deezer_playlist_total_reach": {
-   "value": 244713,
-   "d7": 156,
-   "d7pct": 0.0638,
-   "d30": 478,
-   "d30pct": 0.1957,
-   "d60": -106677,
-   "d60pct": -30.3721
-  },
-  "facebook_followers": {
-   "value": 321000,
-   "d7": 875,
-   "d7pct": 0.2734,
-   "d30": 2897,
-   "d30pct": 0.911,
-   "d60": 3934,
-   "d60pct": 1.2449
-  },
-  "fs_likes": {
-   "value": 321000,
-   "d7": 875,
-   "d7pct": 0.2734,
-   "d30": 2897,
-   "d30pct": 0.911,
-   "d60": 3934,
-   "d60pct": 1.2449
+  "fs_talks": {
+   "value": 12868,
+   "d7": 18499,
+   "d7pct": 71.2487,
+   "d30": 45290,
+   "d30pct": 36.9908,
+   "d60": 10880,
+   "d60pct": 3.8843
   },
   "ins_followers": {
-   "value": 351124,
-   "d7": 3695,
-   "d7pct": 1.0651,
-   "d30": 12738,
-   "d30pct": 3.7694,
-   "d60": 20587,
-   "d60pct": 6.2933
+   "value": 353283,
+   "d7": 3314,
+   "d7pct": 0.9469,
+   "d30": 13383,
+   "d30pct": 3.9429,
+   "d60": 20049,
+   "d60pct": 6.068
   },
   "pandora_lifetime_streams": {
-   "value": 36600414,
-   "d7": 93607,
-   "d7pct": 0.2564,
-   "d30": 609159,
-   "d30pct": 1.6925,
-   "d60": 1437428,
-   "d60pct": 4.1076
+   "value": 36675561,
+   "d7": 101664,
+   "d7pct": 0.278,
+   "d30": 612447,
+   "d30pct": 1.6983,
+   "d60": 1422562,
+   "d60pct": 4.0439
   },
   "pandora_stations_added": {
-   "value": 33,
-   "d7": 12,
-   "d7pct": 57.1429,
-   "d30": 6,
-   "d30pct": 22.2222,
-   "d60": -4,
-   "d60pct": -16
+   "value": 22,
+   "d7": 1,
+   "d7pct": 4.7619,
+   "d30": -1,
+   "d30pct": -4.3478,
+   "d60": 2,
+   "d60pct": 6.4516
   },
   "soundcloud_followers": {
-   "value": 13002,
-   "d7": 50,
-   "d7pct": 0.386,
-   "d30": 196,
-   "d30pct": 1.5305,
-   "d60": 424,
-   "d60pct": 3.3844
+   "value": 13021,
+   "d7": 41,
+   "d7pct": 0.3159,
+   "d30": 197,
+   "d30pct": 1.5362,
+   "d60": 423,
+   "d60pct": 3.3627
   },
   "soundcloud_plays": {
-   "value": 2013407,
-   "d7": 10652,
-   "d7pct": 0.5319,
-   "d30": 46769,
-   "d30pct": 2.3781,
-   "d60": 94598,
-   "d60pct": 4.9804
+   "value": 2013452,
+   "d7": 4713,
+   "d7pct": 0.2346,
+   "d30": 38188,
+   "d30pct": 1.9333,
+   "d60": 89610,
+   "d60pct": 4.658
   },
   "sp_followers": {
-   "value": 761900,
-   "d7": 2687,
-   "d7pct": 0.3539,
-   "d30": 11474,
-   "d30pct": 1.529,
-   "d60": 24992,
-   "d60pct": 3.4024
+   "value": 763478,
+   "d7": 2784,
+   "d7pct": 0.366,
+   "d30": 11518,
+   "d30pct": 1.5317,
+   "d60": 24836,
+   "d60pct": 3.3696
+  },
+  "sp_monthly_listeners": {
+   "value": 3189773,
+   "d7": 4830,
+   "d7pct": 0.1517,
+   "d30": 29951,
+   "d30pct": 0.9479,
+   "d60": -69841,
+   "d60pct": -2.1505
   },
   "spotify_ed_playlist_total_reach": {
-   "value": 5937000,
-   "d7": 2126,
-   "d7pct": 0.0358,
-   "d30": -4155143,
-   "d30pct": -41.1721,
-   "d60": -6140207,
-   "d60pct": -50.8502
+   "value": 5936966,
+   "d7": 1192,
+   "d7pct": 0.0201,
+   "d30": -4148563,
+   "d30pct": -41.1338,
+   "d60": -5330521,
+   "d60pct": -47.3087
   },
   "spotify_playlist_count": {
-   "value": 148272,
-   "d7": 42,
-   "d7pct": 0.0283,
-   "d30": 337,
-   "d30pct": 0.2278,
-   "d60": 518,
-   "d60pct": 0.3507
+   "value": 148366,
+   "d7": 94,
+   "d7pct": 0.0634,
+   "d30": 353,
+   "d30pct": 0.2385,
+   "d60": 386,
+   "d60pct": 0.261
   },
   "spotify_playlist_total_reach": {
-   "value": 24201013,
-   "d7": 95937,
-   "d7pct": 0.398,
-   "d30": -3934265,
-   "d30pct": -13.9834,
-   "d60": -6479970,
-   "d60pct": -21.1867
+   "value": 24284685,
+   "d7": 188835,
+   "d7pct": 0.7837,
+   "d30": -3934514,
+   "d30pct": -13.9427,
+   "d60": -5643838,
+   "d60pct": -18.9106
   },
   "tiktok_followers": {
-   "value": 189760,
-   "d7": 932,
-   "d7pct": 0.4936,
-   "d30": 3477,
-   "d30pct": 1.8665,
-   "d60": 7187,
-   "d60pct": 4.0176
+   "value": 190072,
+   "d7": 656,
+   "d7pct": 0.3463,
+   "d30": 3336,
+   "d30pct": 1.7865,
+   "d60": 7823,
+   "d60pct": 4.2998
   },
   "tiktok_likes": {
-   "value": 2115079,
-   "d7": 18469,
-   "d7pct": 0.8809,
-   "d30": 67575,
-   "d30pct": 3.3004,
-   "d60": 141470,
-   "d60pct": 7.4422
+   "value": 2120443,
+   "d7": 12407,
+   "d7pct": 0.5886,
+   "d30": 65152,
+   "d30pct": 3.17,
+   "d60": 138627,
+   "d60pct": 7.0139
+  },
+  "tiktok_top_video_comments": {
+   "value": 843739,
+   "d7": 6012,
+   "d7pct": 0.7177,
+   "d30": 2548,
+   "d30pct": 0.3029,
+   "d60": 10802,
+   "d60pct": 1.3053
   },
   "tiktok_top_video_views": {
-   "value": 1115845858,
-   "d7": 824075,
-   "d7pct": 0.0739,
-   "d30": 8208771,
-   "d30pct": 0.7411,
-   "d60": 15242675,
-   "d60pct": 1.391
+   "value": 1116570873,
+   "d7": 1007030,
+   "d7pct": 0.0903,
+   "d30": 8588874,
+   "d30pct": 0.7752,
+   "d60": 17952286,
+   "d60pct": 1.6352
   },
   "tiktok_track_posts": {
-   "value": 165070,
-   "d7": 399,
-   "d7pct": 0.2423,
-   "d30": 2319,
-   "d30pct": 1.4249,
-   "d60": 6486,
-   "d60pct": 4.1039
+   "value": 165670,
+   "d7": 812,
+   "d7pct": 0.4925,
+   "d30": 2752,
+   "d30pct": 1.6892,
+   "d60": 5845,
+   "d60pct": 3.6709
   },
   "ycs_subscribers": {
    "value": 175000,
@@ -183,88 +183,106 @@
    "d30": 2000,
    "d30pct": 1.1561,
    "d60": 4000,
-   "d60pct": 2.3529
+   "d60pct": 2.3392
   },
   "ycs_views": {
-   "value": 135947141,
-   "d7": 724500,
-   "d7pct": 0.5358,
-   "d30": 3067425,
-   "d30pct": 2.3084,
-   "d60": 11064157,
-   "d60pct": 8.9113
-  },
-  "fs_talks": {
-   "value": 11847,
-   "d7": -12225,
-   "d7pct": -31.0326,
-   "d30": 25675,
-   "d30pct": 20.5118,
-   "d60": 6708,
-   "d60pct": 2.3243
-  },
-  "pandora_listeners_28_day": {
-   "value": 114628,
-   "d7": -687,
-   "d7pct": -0.5958,
-   "d30": -5662,
-   "d30pct": -4.707,
-   "d60": -5051,
-   "d60pct": -4.1964
-  },
-  "sp_monthly_listeners": {
-   "value": 3177834,
-   "d7": -33380,
-   "d7pct": -1.0395,
-   "d30": 5863,
-   "d30pct": 0.1848,
-   "d60": -110024,
-   "d60pct": -3.3244
-  },
-  "tiktok_top_video_comments": {
-   "value": 838372,
-   "d7": -1413,
-   "d7pct": -0.1683,
-   "d30": -2108,
-   "d30pct": -0.2508,
-   "d60": 11765,
-   "d60pct": 1.4225
-  },
-  "ts_followers": {
-   "value": 56599,
-   "d7": -34,
-   "d7pct": -0.06,
-   "d30": -5,
-   "d30pct": -0.0088,
-   "d60": 0,
-   "d60pct": 0
-  },
-  "ws_views": {
-   "value": 307,
-   "d7": -618,
-   "d7pct": -30.2496,
-   "d30": -518,
-   "d30pct": -6.4532,
-   "d60": -10824,
-   "d60pct": -38.8375
+   "value": 136184661,
+   "d7": 652177,
+   "d7pct": 0.4812,
+   "d30": 2882756,
+   "d30pct": 2.1626,
+   "d60": 14893913,
+   "d60pct": 12.3036
   },
   "youtube_playlist_count": {
-   "value": 24,
-   "d7": 0,
-   "d7pct": 0,
-   "d30": 1,
-   "d30pct": 4.3478,
+   "value": 25,
+   "d7": 1,
+   "d7pct": 4.1667,
+   "d30": 2,
+   "d30pct": 8.6957,
    "d60": 1,
    "d60pct": 4.3478
   },
   "youtube_playlist_total_reach": {
-   "value": 23427438,
+   "value": 23487150,
+   "d7": 59712,
+   "d7pct": 0.2549,
+   "d30": 96957,
+   "d30pct": 0.4145,
+   "d60": 39117,
+   "d60pct": 0.1673
+  },
+  "deezer_playlist_count": {
+   "value": 11,
+   "d7": -1,
+   "d7pct": -8.3333,
+   "d30": -2,
+   "d30pct": -15.3846,
+   "d60": -1,
+   "d60pct": -7.6923
+  },
+  "deezer_playlist_total_reach": {
+   "value": 244244,
+   "d7": -411,
+   "d7pct": -0.168,
+   "d30": -25925,
+   "d30pct": -9.5958,
+   "d60": -106687,
+   "d60pct": -30.3606
+  },
+  "pandora_listeners_28_day": {
+   "value": 114095,
+   "d7": -656,
+   "d7pct": -0.5717,
+   "d30": -5585,
+   "d30pct": -4.6666,
+   "d60": -8700,
+   "d60pct": -7.0544
+  },
+  "sp_popularity": {
+   "value": 67,
+   "d7": -1,
+   "d7pct": -1.4706,
+   "d30": -1,
+   "d30pct": -1.4706,
+   "d60": -1,
+   "d60pct": -1.4493
+  },
+  "ts_followers": {
+   "value": 56554,
+   "d7": -86,
+   "d7pct": -0.1518,
+   "d30": -41,
+   "d30pct": -0.0724,
+   "d60": 0,
+   "d60pct": 0
+  },
+  "ws_views": {
+   "value": 237,
+   "d7": -423,
+   "d7pct": -21.659,
+   "d30": 36,
+   "d30pct": 0.4677,
+   "d60": -10158,
+   "d60pct": -37.3566
+  },
+  "facebook_followers": {
+   "value": 321000,
    "d7": 0,
    "d7pct": 0,
-   "d30": 37245,
-   "d30pct": 0.1592,
-   "d60": 57443,
-   "d60pct": 0.2458
+   "d30": 2897,
+   "d30pct": 0.911,
+   "d60": 5000,
+   "d60pct": 1.5823
+  },
+  "fs_likes": {
+   "value": 321000,
+   "d7": 0,
+   "d7pct": 0,
+   "d30": 2897,
+   "d30pct": 0.911,
+   "d60": 5000,
+   "d60pct": 1.5823
   },
   "amazon_ed_playlist_count": {
    "value": 19,
@@ -288,8 +306,8 @@
    "value": 13,
    "d7": 0,
    "d7pct": 0,
-   "d30": -2,
-   "d30pct": -13.3333,
+   "d30": -1,
+   "d30pct": -7.1429,
    "d60": -6,
    "d60pct": -31.5789
   },
@@ -297,10 +315,10 @@
    "value": 183793,
    "d7": 0,
    "d7pct": 0,
-   "d30": -1791677,
-   "d30pct": -36.2467,
-   "d60": -1158003,
-   "d60pct": -10.3531
+   "d30": -2296575,
+   "d30pct": -46.2119,
+   "d60": -2191859,
+   "d60pct": -19.8852
   },
   "shazam_count": {
    "value": 1692259,
@@ -308,8 +326,8 @@
    "d7pct": 0,
    "d30": 0,
    "d30pct": 0,
-   "d60": 12929,
-   "d60pct": 0.7699
+   "d60": 10277,
+   "d60pct": 0.611
   },
   "siriusxm_streams": {
    "value": 845,
@@ -329,15 +347,6 @@
    "d60": -1,
    "d60pct": -25
   },
-  "deezer_playlist_count": {
-   "value": 12,
-   "d7": 0,
-   "d7pct": 0,
-   "d30": 0,
-   "d30pct": 0,
-   "d60": -1,
-   "d60pct": -7.6923
-  },
   "itunes_ed_playlist_count": {
    "value": 14,
    "d7": 0,
@@ -346,15 +355,6 @@
    "d30pct": 0,
    "d60": -2,
    "d60pct": -12.5
-  },
-  "sp_popularity": {
-   "value": 68,
-   "d7": 0,
-   "d7pct": 0,
-   "d30": 0,
-   "d30pct": 0,
-   "d60": -1,
-   "d60pct": -1.4493
   }
  },
  "history": [
@@ -469,85 +469,93 @@
    "ins_followers": 351124,
    "tiktok_followers": 189760,
    "ycs_subscribers": 175000
+  },
+  {
+   "day": "2026-10-13",
+   "sp_monthly_listeners": 3189773,
+   "sp_followers": 763478,
+   "ins_followers": 353283,
+   "tiktok_followers": 190072,
+   "ycs_subscribers": 175000
   }
  ],
  "extras": {
-  "updated": "2026-10-10",
+  "updated": "2026-10-13",
   "tracks": [
    {
     "name": "FEEL NOTHING",
     "year": 2017,
-    "weekly_streams": 908192,
-    "monthly_streams": 3215652
+    "weekly_streams": 827735,
+    "monthly_streams": 3251843
    },
    {
     "name": "Left Behind",
     "year": 2023,
-    "weekly_streams": 543112,
-    "monthly_streams": 2346451
+    "weekly_streams": 545208,
+    "monthly_streams": 2250154
    },
    {
     "name": "Forgotten",
     "year": 2023,
-    "weekly_streams": 423480,
-    "monthly_streams": 1815794
+    "weekly_streams": 404667,
+    "monthly_streams": 1730764
    },
    {
     "name": "Divide",
     "year": 2022,
-    "weekly_streams": 343152,
-    "monthly_streams": 1466872
+    "weekly_streams": 335609,
+    "monthly_streams": 1412688
    },
    {
     "name": "Don’t Look Away",
     "year": 2024,
-    "weekly_streams": 239113,
-    "monthly_streams": 957802
+    "weekly_streams": 217038,
+    "monthly_streams": 965345
    },
    {
     "name": "THE ONE YOU LOVED",
     "year": 2018,
-    "weekly_streams": 203606,
-    "monthly_streams": 744928
+    "weekly_streams": 187523,
+    "monthly_streams": 752078
    },
    {
     "name": "All That I Can Give",
     "year": 2024,
-    "weekly_streams": 174351,
-    "monthly_streams": 684291
+    "weekly_streams": 172398,
+    "monthly_streams": 682737
    },
    {
     "name": "Spare Me",
     "year": 2024,
-    "weekly_streams": 167753,
-    "monthly_streams": 712020
+    "weekly_streams": 168804,
+    "monthly_streams": 674309
    }
   ],
   "cities": [
    {
     "name": "London",
     "country": "GB",
-    "listeners": 45302
-   },
-   {
-    "name": "Brisbane",
-    "country": "AU",
-    "listeners": 42779
+    "listeners": 44887
    },
    {
     "name": "Chicago",
     "country": "US",
-    "listeners": 42662
+    "listeners": 43557
    },
    {
-    "name": "São Paulo",
+    "name": "Brisbane",
+    "country": "AU",
+    "listeners": 42767
+   },
+   {
+    "name": "Sao Paulo",
     "country": "BR",
-    "listeners": 41722
+    "listeners": 41198
    },
    {
     "name": "Sydney",
     "country": "AU",
-    "listeners": 40984
+    "listeners": 40604
    }
   ]
  }
