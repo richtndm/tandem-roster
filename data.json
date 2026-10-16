@@ -1,276 +1,276 @@
 {
- "generated": "2026-10-13T10:13:56.595Z",
- "showsUpdated": "2026-10-12T15:20:46Z",
+ "generated": "2026-10-16T15:55:42.139Z",
+ "showsUpdated": "2026-10-16T14:24:11Z",
  "roster": [
   {
    "id": "99040",
    "name": "Silverstein",
-   "sp_monthly_listeners": 1687669,
-   "sp_monthly_listeners_30d": 47710,
-   "sp_followers": 930878,
-   "sp_followers_30d": 10387,
-   "ins_followers": 316462,
-   "ins_followers_30d": 9269,
-   "tiktok_followers": 95828,
-   "tiktok_followers_30d": 4220,
-   "ycs_subscribers": 223000,
-   "ycs_subscribers_30d": 3000,
-   "sp_monthly_listeners_30d_pct": 2.9092
+   "sp_monthly_listeners": 1688037,
+   "sp_monthly_listeners_30d": 42257,
+   "sp_followers": 932427,
+   "sp_followers_30d": 10774,
+   "ins_followers": 317453,
+   "ins_followers_30d": 9611,
+   "tiktok_followers": 96386,
+   "tiktok_followers_30d": 4230,
+   "ycs_subscribers": 224000,
+   "ycs_subscribers_30d": 4000,
+   "sp_monthly_listeners_30d_pct": 2.5676
   },
   {
    "id": "107586",
    "name": "The Plot In You",
-   "sp_monthly_listeners": 3189773,
-   "sp_monthly_listeners_30d": 29951,
-   "sp_followers": 763478,
-   "sp_followers_30d": 11518,
-   "ins_followers": 353283,
-   "ins_followers_30d": 13383,
-   "tiktok_followers": 190072,
-   "tiktok_followers_30d": 3336,
+   "sp_monthly_listeners": 3180682,
+   "sp_monthly_listeners_30d": 14299,
+   "sp_followers": 764524,
+   "sp_followers_30d": 11731,
+   "ins_followers": 354327,
+   "ins_followers_30d": 13489,
+   "tiktok_followers": 190319,
+   "tiktok_followers_30d": 3184,
    "ycs_subscribers": 175000,
    "ycs_subscribers_30d": 2000,
-   "sp_monthly_listeners_30d_pct": 0.9479
+   "sp_monthly_listeners_30d_pct": 0.4516
   },
   {
    "id": "29919",
    "name": "The Devil Wears Prada",
-   "sp_monthly_listeners": 1249955,
-   "sp_monthly_listeners_30d": 104141,
-   "sp_followers": 782085,
-   "sp_followers_30d": 4698,
-   "ins_followers": 295853,
-   "ins_followers_30d": 4197,
+   "sp_monthly_listeners": 1260732,
+   "sp_monthly_listeners_30d": 111908,
+   "sp_followers": 782515,
+   "sp_followers_30d": 4519,
+   "ins_followers": 296399,
+   "ins_followers_30d": 4284,
    "tiktok_followers": 41133,
    "tiktok_followers_30d": 135,
    "ycs_subscribers": 181000,
    "ycs_subscribers_30d": 1000,
-   "sp_monthly_listeners_30d_pct": 9.0888
+   "sp_monthly_listeners_30d_pct": 9.7411
   },
   {
    "id": "208422",
    "name": "We Came As Romans",
-   "sp_monthly_listeners": 2456307,
-   "sp_monthly_listeners_30d": 198217,
-   "sp_followers": 1013338,
-   "sp_followers_30d": 6660,
-   "ins_followers": 285197,
-   "ins_followers_30d": 2919,
-   "tiktok_followers": 64960,
-   "tiktok_followers_30d": 757,
+   "sp_monthly_listeners": 2446139,
+   "sp_monthly_listeners_30d": 172516,
+   "sp_followers": 1014121,
+   "sp_followers_30d": 6677,
+   "ins_followers": 285394,
+   "ins_followers_30d": 2483,
+   "tiktok_followers": 65036,
+   "tiktok_followers_30d": 769,
    "ycs_subscribers": 129000,
-   "ycs_subscribers_30d": 2000,
-   "sp_monthly_listeners_30d_pct": 8.7781
+   "ycs_subscribers_30d": 1000,
+   "sp_monthly_listeners_30d_pct": 7.5877
   },
   {
    "id": "1780",
    "name": "Saosin",
-   "sp_monthly_listeners": 1343187,
-   "sp_monthly_listeners_30d": 104473,
-   "sp_followers": 641305,
-   "sp_followers_30d": 7055,
-   "ins_followers": 217279,
-   "ins_followers_30d": 7917,
+   "sp_monthly_listeners": 1317535,
+   "sp_monthly_listeners_30d": 37155,
+   "sp_followers": 642153,
+   "sp_followers_30d": 6551,
+   "ins_followers": 217801,
+   "ins_followers_30d": 7465,
    "tiktok_followers": null,
    "tiktok_followers_30d": null,
    "ycs_subscribers": 144000,
    "ycs_subscribers_30d": 2000,
-   "sp_monthly_listeners_30d_pct": 8.434
+   "sp_monthly_listeners_30d_pct": 2.9019
   },
   {
    "id": "59542",
    "name": "Four Year Strong",
-   "sp_monthly_listeners": 296011,
-   "sp_monthly_listeners_30d": -4548,
-   "sp_followers": 274811,
-   "sp_followers_30d": 895,
-   "ins_followers": 109868,
-   "ins_followers_30d": 721,
-   "tiktok_followers": 5845,
-   "tiktok_followers_30d": 264,
+   "sp_monthly_listeners": 295129,
+   "sp_monthly_listeners_30d": -5340,
+   "sp_followers": 274877,
+   "sp_followers_30d": 899,
+   "ins_followers": 109875,
+   "ins_followers_30d": 0,
+   "tiktok_followers": 5847,
+   "tiktok_followers_30d": 256,
    "ycs_subscribers": 44300,
    "ycs_subscribers_30d": 200,
-   "sp_monthly_listeners_30d_pct": -1.5132
+   "sp_monthly_listeners_30d_pct": -1.7772
   },
   {
    "id": "1710599",
    "name": "Arm's Length",
-   "sp_monthly_listeners": 224713,
-   "sp_monthly_listeners_30d": 1838,
-   "sp_followers": 76609,
-   "sp_followers_30d": 1229,
-   "ins_followers": 54938,
-   "ins_followers_30d": 1669,
-   "tiktok_followers": 12145,
-   "tiktok_followers_30d": 93,
+   "sp_monthly_listeners": 227078,
+   "sp_monthly_listeners_30d": 4965,
+   "sp_followers": 76796,
+   "sp_followers_30d": 1347,
+   "ins_followers": 55107,
+   "ins_followers_30d": 1751,
+   "tiktok_followers": 12160,
+   "tiktok_followers_30d": 100,
    "ycs_subscribers": null,
    "ycs_subscribers_30d": null,
-   "sp_monthly_listeners_30d_pct": 0.8247
+   "sp_monthly_listeners_30d_pct": 2.2353
   },
   {
    "id": "470827",
    "name": "August Burns Red",
-   "sp_monthly_listeners": 691351,
-   "sp_monthly_listeners_30d": -24085,
-   "sp_followers": 818647,
-   "sp_followers_30d": 3453,
-   "ins_followers": 386983,
-   "ins_followers_30d": 2724,
-   "tiktok_followers": 84175,
-   "tiktok_followers_30d": 205,
-   "ycs_subscribers": 209000,
-   "ycs_subscribers_30d": 0,
-   "sp_monthly_listeners_30d_pct": -3.3665
+   "sp_monthly_listeners": 689660,
+   "sp_monthly_listeners_30d": -23386,
+   "sp_followers": 819076,
+   "sp_followers_30d": 3348,
+   "ins_followers": 387134,
+   "ins_followers_30d": 2770,
+   "tiktok_followers": 84183,
+   "tiktok_followers_30d": 201,
+   "ycs_subscribers": 210000,
+   "ycs_subscribers_30d": 1000,
+   "sp_monthly_listeners_30d_pct": -3.2797
   },
   {
    "id": "555867",
    "name": "Drug Church",
-   "sp_monthly_listeners": 124160,
-   "sp_monthly_listeners_30d": -2035,
-   "sp_followers": 112024,
-   "sp_followers_30d": 859,
-   "ins_followers": 75092,
-   "ins_followers_30d": 945,
-   "tiktok_followers": 1577,
-   "tiktok_followers_30d": 24,
+   "sp_monthly_listeners": 123783,
+   "sp_monthly_listeners_30d": -2721,
+   "sp_followers": 112111,
+   "sp_followers_30d": 887,
+   "ins_followers": 75094,
+   "ins_followers_30d": 0,
+   "tiktok_followers": 1578,
+   "tiktok_followers_30d": 15,
    "ycs_subscribers": 2940,
    "ycs_subscribers_30d": 0,
-   "sp_monthly_listeners_30d_pct": -1.6126
+   "sp_monthly_listeners_30d_pct": -2.1509
   },
   {
    "id": "66624",
    "name": "Intervals",
-   "sp_monthly_listeners": 210620,
-   "sp_monthly_listeners_30d": -12271,
-   "sp_followers": 230765,
-   "sp_followers_30d": 608,
-   "ins_followers": 165338,
+   "sp_monthly_listeners": 209930,
+   "sp_monthly_listeners_30d": -12851,
+   "sp_followers": 230857,
+   "sp_followers_30d": 642,
+   "ins_followers": 165309,
    "ins_followers_30d": -34,
    "tiktok_followers": null,
    "tiktok_followers_30d": null,
    "ycs_subscribers": null,
    "ycs_subscribers_30d": null,
-   "sp_monthly_listeners_30d_pct": -5.5054
+   "sp_monthly_listeners_30d_pct": -5.7684
   },
   {
    "id": "484706",
    "name": "Like Moths To Flames",
-   "sp_monthly_listeners": 590988,
-   "sp_monthly_listeners_30d": 46755,
-   "sp_followers": 316697,
-   "sp_followers_30d": 3722,
-   "ins_followers": 94071,
-   "ins_followers_30d": 3859,
+   "sp_monthly_listeners": 601612,
+   "sp_monthly_listeners_30d": 70714,
+   "sp_followers": 317037,
+   "sp_followers_30d": 3822,
+   "ins_followers": 94388,
+   "ins_followers_30d": 3772,
    "tiktok_followers": null,
    "tiktok_followers_30d": null,
    "ycs_subscribers": 8630,
    "ycs_subscribers_30d": -10,
-   "sp_monthly_listeners_30d_pct": 8.591
+   "sp_monthly_listeners_30d_pct": 13.3197
   },
   {
    "id": "155926",
    "name": "Miss May I",
-   "sp_monthly_listeners": 688636,
-   "sp_monthly_listeners_30d": 62118,
-   "sp_followers": 556646,
-   "sp_followers_30d": 2636,
-   "ins_followers": 170517,
-   "ins_followers_30d": 1093,
+   "sp_monthly_listeners": 697995,
+   "sp_monthly_listeners_30d": 65786,
+   "sp_followers": 557025,
+   "sp_followers_30d": 2774,
+   "ins_followers": 170581,
+   "ins_followers_30d": 1117,
    "tiktok_followers": 16305,
    "tiktok_followers_30d": 1461,
    "ycs_subscribers": 48500,
    "ycs_subscribers_30d": 900,
-   "sp_monthly_listeners_30d_pct": 9.9148
+   "sp_monthly_listeners_30d_pct": 10.4057
   },
   {
    "id": "273408",
    "name": "Landon Tewers",
-   "sp_monthly_listeners": 181407,
-   "sp_monthly_listeners_30d": -16096,
-   "sp_followers": 79209,
-   "sp_followers_30d": 412,
-   "ins_followers": 83612,
-   "ins_followers_30d": 1227,
+   "sp_monthly_listeners": 179559,
+   "sp_monthly_listeners_30d": -14014,
+   "sp_followers": 79343,
+   "sp_followers_30d": 425,
+   "ins_followers": null,
+   "ins_followers_30d": null,
    "tiktok_followers": null,
    "tiktok_followers_30d": null,
    "ycs_subscribers": 59200,
-   "ycs_subscribers_30d": 100,
-   "sp_monthly_listeners_30d_pct": -8.1261
+   "ycs_subscribers_30d": 0,
+   "sp_monthly_listeners_30d_pct": -7.075
   },
   {
    "id": "572295",
    "name": "Belmont",
-   "sp_monthly_listeners": 168380,
-   "sp_monthly_listeners_30d": 2578,
-   "sp_followers": 131190,
-   "sp_followers_30d": 761,
-   "ins_followers": 71299,
-   "ins_followers_30d": 769,
-   "tiktok_followers": 13213,
-   "tiktok_followers_30d": 37,
+   "sp_monthly_listeners": 168755,
+   "sp_monthly_listeners_30d": 2910,
+   "sp_followers": 131250,
+   "sp_followers_30d": 765,
+   "ins_followers": 71328,
+   "ins_followers_30d": 0,
+   "tiktok_followers": 13217,
+   "tiktok_followers_30d": 43,
    "ycs_subscribers": 6840,
-   "ycs_subscribers_30d": 30,
-   "sp_monthly_listeners_30d_pct": 1.5549
+   "ycs_subscribers_30d": 20,
+   "sp_monthly_listeners_30d_pct": 1.7558
   },
   {
    "id": "216347",
    "name": "Kingdom Of Giants",
-   "sp_monthly_listeners": 475149,
-   "sp_monthly_listeners_30d": 43305,
-   "sp_followers": 147413,
-   "sp_followers_30d": 2655,
-   "ins_followers": 51279,
-   "ins_followers_30d": 1428,
+   "sp_monthly_listeners": 483160,
+   "sp_monthly_listeners_30d": 57585,
+   "sp_followers": 147688,
+   "sp_followers_30d": 2737,
+   "ins_followers": 51310,
+   "ins_followers_30d": 1338,
    "tiktok_followers": null,
    "tiktok_followers_30d": null,
    "ycs_subscribers": 10600,
    "ycs_subscribers_30d": 300,
-   "sp_monthly_listeners_30d_pct": 10.0279
+   "sp_monthly_listeners_30d_pct": 13.5311
   },
   {
    "id": "1460954",
    "name": "Second Harbour",
-   "sp_monthly_listeners": 26795,
-   "sp_monthly_listeners_30d": -7767,
-   "sp_followers": 12357,
-   "sp_followers_30d": 138,
-   "ins_followers": 29747,
-   "ins_followers_30d": 14,
+   "sp_monthly_listeners": 28398,
+   "sp_monthly_listeners_30d": -5076,
+   "sp_followers": 12432,
+   "sp_followers_30d": 175,
+   "ins_followers": 29830,
+   "ins_followers_30d": 94,
    "tiktok_followers": null,
    "tiktok_followers_30d": null,
    "ycs_subscribers": 895,
    "ycs_subscribers_30d": 11,
-   "sp_monthly_listeners_30d_pct": -22.4727
+   "sp_monthly_listeners_30d_pct": -14.6867
   },
   {
    "id": "8475583",
    "name": "Spite House",
-   "sp_monthly_listeners": 18992,
-   "sp_monthly_listeners_30d": -318,
-   "sp_followers": 13690,
-   "sp_followers_30d": 460,
-   "ins_followers": 8619,
-   "ins_followers_30d": 346,
+   "sp_monthly_listeners": 20130,
+   "sp_monthly_listeners_30d": 1305,
+   "sp_followers": 13774,
+   "sp_followers_30d": 507,
+   "ins_followers": 8706,
+   "ins_followers_30d": 0,
    "tiktok_followers": null,
    "tiktok_followers_30d": null,
    "ycs_subscribers": null,
    "ycs_subscribers_30d": null,
-   "sp_monthly_listeners_30d_pct": -1.6468
+   "sp_monthly_listeners_30d_pct": 6.9323
   },
   {
    "id": "59508",
    "name": "Bearings",
-   "sp_monthly_listeners": 69522,
-   "sp_monthly_listeners_30d": -4169,
-   "sp_followers": 40980,
-   "sp_followers_30d": 175,
-   "ins_followers": 35023,
-   "ins_followers_30d": -9,
+   "sp_monthly_listeners": 68213,
+   "sp_monthly_listeners_30d": -5990,
+   "sp_followers": 41013,
+   "sp_followers_30d": 195,
+   "ins_followers": 35008,
+   "ins_followers_30d": 0,
    "tiktok_followers": 5654,
    "tiktok_followers_30d": -2,
    "ycs_subscribers": null,
    "ycs_subscribers_30d": null,
-   "sp_monthly_listeners_30d_pct": -5.6574
+   "sp_monthly_listeners_30d_pct": -8.0492
   },
   {
    "id": "385700",
@@ -281,8 +281,8 @@
    "sp_followers_30d": 1564,
    "ins_followers": 22261,
    "ins_followers_30d": 0,
-   "tiktok_followers": 54430,
-   "tiktok_followers_30d": 60,
+   "tiktok_followers": 54451,
+   "tiktok_followers_30d": 62,
    "ycs_subscribers": 7020,
    "ycs_subscribers_30d": 30,
    "sp_monthly_listeners_30d_pct": 19.0671
@@ -290,17 +290,17 @@
   {
    "id": "145507",
    "name": "Rarity",
-   "sp_monthly_listeners": 45134,
-   "sp_monthly_listeners_30d": -1070,
-   "sp_followers": 35447,
-   "sp_followers_30d": 110,
-   "ins_followers": 10803,
-   "ins_followers_30d": -17,
+   "sp_monthly_listeners": 45228,
+   "sp_monthly_listeners_30d": -949,
+   "sp_followers": 35459,
+   "sp_followers_30d": 122,
+   "ins_followers": 10805,
+   "ins_followers_30d": -14,
    "tiktok_followers": null,
    "tiktok_followers_30d": null,
    "ycs_subscribers": 3250,
    "ycs_subscribers_30d": 10,
-   "sp_monthly_listeners_30d_pct": -2.3158
+   "sp_monthly_listeners_30d_pct": -2.0551
   },
   {
    "id": "9920273",
@@ -320,32 +320,32 @@
   {
    "id": "866342",
    "name": "House & Home",
-   "sp_monthly_listeners": 35776,
-   "sp_monthly_listeners_30d": 1904,
-   "sp_followers": 30125,
-   "sp_followers_30d": 310,
-   "ins_followers": 18235,
-   "ins_followers_30d": 251,
+   "sp_monthly_listeners": 35339,
+   "sp_monthly_listeners_30d": 82,
+   "sp_followers": 30170,
+   "sp_followers_30d": 351,
+   "ins_followers": 18296,
+   "ins_followers_30d": 0,
    "tiktok_followers": 337,
    "tiktok_followers_30d": 4,
    "ycs_subscribers": null,
    "ycs_subscribers_30d": null,
-   "sp_monthly_listeners_30d_pct": 5.6212
+   "sp_monthly_listeners_30d_pct": 0.2326
   },
   {
    "id": "10907298",
    "name": "SAVE US",
-   "sp_monthly_listeners": 434581,
-   "sp_monthly_listeners_30d": -31468,
-   "sp_followers": 40013,
-   "sp_followers_30d": 1908,
-   "ins_followers": 13202,
-   "ins_followers_30d": 557,
+   "sp_monthly_listeners": 437456,
+   "sp_monthly_listeners_30d": -29848,
+   "sp_followers": 40245,
+   "sp_followers_30d": 1991,
+   "ins_followers": 13322,
+   "ins_followers_30d": 636,
    "tiktok_followers": null,
    "tiktok_followers_30d": null,
-   "ycs_subscribers": 2930,
-   "ycs_subscribers_30d": 140,
-   "sp_monthly_listeners_30d_pct": -6.7521
+   "ycs_subscribers": 2950,
+   "ycs_subscribers_30d": 150,
+   "sp_monthly_listeners_30d_pct": -6.3873
   },
   {
    "id": "9455958",
@@ -354,12 +354,12 @@
    "sp_monthly_listeners_30d": -1624,
    "sp_followers": 48853,
    "sp_followers_30d": 90,
-   "ins_followers": 139085,
-   "ins_followers_30d": -486,
+   "ins_followers": 139021,
+   "ins_followers_30d": -504,
    "tiktok_followers": null,
    "tiktok_followers_30d": null,
-   "ycs_subscribers": 92000,
-   "ycs_subscribers_30d": 100,
+   "ycs_subscribers": 92100,
+   "ycs_subscribers_30d": 200,
    "sp_monthly_listeners_30d_pct": -4.6738
   }
  ],
@@ -386,25 +386,32 @@
    "venue": "Sunshine Theater"
   },
   {
-   "event_id": "107702238",
-   "artist_id": "29919",
-   "day": "2026-10-12",
-   "city": "Vienna, Austria",
-   "venue": "Simm City"
+   "event_id": "108369092",
+   "artist_id": "1780",
+   "day": "2026-10-27",
+   "city": "San Antonio, TX",
+   "venue": "The Rock Box"
   },
   {
-   "event_id": "107702243",
-   "artist_id": "29919",
-   "day": "2026-10-13",
-   "city": "Leipzig, Germany",
-   "venue": "Felsenkeller Leipzig"
+   "event_id": "108369098",
+   "artist_id": "1780",
+   "day": "2026-10-28",
+   "city": "Dallas, TX",
+   "venue": "House of Blues Dallas"
   },
   {
-   "event_id": "107702251",
-   "artist_id": "29919",
-   "day": "2026-10-14",
-   "city": "Praha, Czechia",
-   "venue": "ARCHA+"
+   "event_id": "108369104",
+   "artist_id": "1780",
+   "day": "2026-10-29",
+   "city": "Houston, TX",
+   "venue": "House of Blues Houston"
+  },
+  {
+   "event_id": "108369111",
+   "artist_id": "1780",
+   "day": "2026-10-30",
+   "city": "New Orleans, LA",
+   "venue": "House of Blues New Orleans"
   },
   {
    "event_id": "107702252",
@@ -463,6 +470,13 @@
    "venue": "O2 Institute Birmingham"
   },
   {
+   "event_id": "1039212498",
+   "artist_id": "29919",
+   "day": "2026-10-30",
+   "city": "Worcester, MA",
+   "venue": "DCU Center"
+  },
+  {
    "event_id": "108983852",
    "artist_id": "59542",
    "day": "2026-10-16",
@@ -475,6 +489,13 @@
    "day": "2026-10-17",
    "city": "Garwood, NJ",
    "venue": "Crossroads"
+  },
+  {
+   "event_id": "108782984",
+   "artist_id": "99040",
+   "day": "2026-10-30",
+   "city": "Cape Town, South Africa",
+   "venue": "Castle of Good Hope"
   },
   {
    "event_id": "108540298",
@@ -512,18 +533,18 @@
    "venue": "White Oak Music Hall"
   },
   {
-   "event_id": "108286619",
-   "artist_id": "385700",
-   "day": "2026-10-14",
-   "city": "Bristol, United Kingdom",
-   "venue": "Exchange"
+   "event_id": "108508760",
+   "artist_id": "208422",
+   "day": "2026-10-29",
+   "city": "Las Vegas, NV",
+   "venue": "House of Blues Las Vegas"
   },
   {
-   "event_id": "108286625",
-   "artist_id": "385700",
-   "day": "2026-10-15",
-   "city": "Leeds, United Kingdom",
-   "venue": "The Key Club"
+   "event_id": "108508767",
+   "artist_id": "208422",
+   "day": "2026-10-30",
+   "city": "Tempe, AZ",
+   "venue": "Marquee Theatre"
   },
   {
    "event_id": "108286629",
@@ -589,6 +610,34 @@
    "venue": "Pod Minogą"
   },
   {
+   "event_id": "108286669",
+   "artist_id": "385700",
+   "day": "2026-10-27",
+   "city": "Hlavní město Praha, Czechia",
+   "venue": "Bike Jesus"
+  },
+  {
+   "event_id": "108286680",
+   "artist_id": "385700",
+   "day": "2026-10-28",
+   "city": "Vienna, Austria",
+   "venue": "Viper Room"
+  },
+  {
+   "event_id": "108286685",
+   "artist_id": "385700",
+   "day": "2026-10-29",
+   "city": "Munich, Germany",
+   "venue": "Feierwerk"
+  },
+  {
+   "event_id": "108286693",
+   "artist_id": "385700",
+   "day": "2026-10-30",
+   "city": "Aarau, Switzerland",
+   "venue": "KIFF"
+  },
+  {
    "event_id": "108362862",
    "artist_id": "484706",
    "day": "2026-10-23",
@@ -610,25 +659,32 @@
    "venue": "Sunshine Theater"
   },
   {
-   "event_id": "108693890",
-   "artist_id": "572295",
-   "day": "2026-10-12",
-   "city": "Austin, TX",
-   "venue": "CATIL"
+   "event_id": "108362886",
+   "artist_id": "484706",
+   "day": "2026-10-27",
+   "city": "San Antonio, TX",
+   "venue": "The Rock Box"
   },
   {
-   "event_id": "108693884",
-   "artist_id": "572295",
-   "day": "2026-10-14",
-   "city": "Oklahoma City, OK",
-   "venue": "89th Street - OKC"
+   "event_id": "108362861",
+   "artist_id": "484706",
+   "day": "2026-10-28",
+   "city": "Dallas, TX",
+   "venue": "House of Blues Dallas"
   },
   {
-   "event_id": "108693892",
-   "artist_id": "572295",
-   "day": "2026-10-15",
-   "city": "Tulsa, OK",
-   "venue": "Vanguard"
+   "event_id": "108362860",
+   "artist_id": "484706",
+   "day": "2026-10-29",
+   "city": "Houston, TX",
+   "venue": "House Of Blues"
+  },
+  {
+   "event_id": "108362873",
+   "artist_id": "484706",
+   "day": "2026-10-30",
+   "city": "New Orleans, LA",
+   "venue": "House of Blues New Orleans"
   },
   {
    "event_id": "108693889",
@@ -645,27 +701,6 @@
    "venue": "Cannery Hall"
   },
   {
-   "event_id": "1039448763",
-   "artist_id": "866342",
-   "day": "2026-10-13",
-   "city": "New York, NY",
-   "venue": "Irving Plaza"
-  },
-  {
-   "event_id": "1039456625",
-   "artist_id": "866342",
-   "day": "2026-10-14",
-   "city": "Worcester, MA",
-   "venue": "Palladium"
-  },
-  {
-   "event_id": "1039448522",
-   "artist_id": "866342",
-   "day": "2026-10-15",
-   "city": "McKees Rocks, PA",
-   "venue": "Roxian Theatre Presented by Citizens"
-  },
-  {
    "event_id": "108927120",
    "artist_id": "1460954",
    "day": "2026-10-17",
@@ -673,53 +708,11 @@
    "venue": "Cannery Hall"
   },
   {
-   "event_id": "108554721",
-   "artist_id": "1710599",
-   "day": "2026-10-13",
-   "city": "New York, NY",
-   "venue": "Irving Plaza"
-  },
-  {
-   "event_id": "108554719",
-   "artist_id": "1710599",
-   "day": "2026-10-14",
-   "city": "Worcester, MA",
-   "venue": "Palladium"
-  },
-  {
-   "event_id": "108554728",
-   "artist_id": "1710599",
-   "day": "2026-10-15",
-   "city": "McKees Rocks, PA",
-   "venue": "Roxian Theatre Presented by Citizens"
-  },
-  {
    "event_id": "108558524",
    "artist_id": "1710599",
    "day": "2026-10-17",
    "city": "Nashville, TN",
    "venue": "Cannery Hall"
-  },
-  {
-   "event_id": "108868657",
-   "artist_id": "8475583",
-   "day": "2026-10-12",
-   "city": "Chicago, IL",
-   "venue": "Subterranean"
-  },
-  {
-   "event_id": "108868664",
-   "artist_id": "8475583",
-   "day": "2026-10-13",
-   "city": "Clinton Township, MI",
-   "venue": "Edgemen Screenprinting & Embroidery"
-  },
-  {
-   "event_id": "108868667",
-   "artist_id": "8475583",
-   "day": "2026-10-15",
-   "city": "Montreal, QC",
-   "venue": "Newspeak"
   },
   {
    "event_id": "108868668",
@@ -785,6 +778,27 @@
    "venue": "Fellowship Hall"
   },
   {
+   "event_id": "1040164555",
+   "artist_id": "8475583",
+   "day": "2026-10-27",
+   "city": "Boise, ID",
+   "venue": "Shrine Social Club"
+  },
+  {
+   "event_id": "108868696",
+   "artist_id": "8475583",
+   "day": "2026-10-28",
+   "city": "Portland, OR",
+   "venue": "High Limit Room"
+  },
+  {
+   "event_id": "108868700",
+   "artist_id": "8475583",
+   "day": "2026-10-29",
+   "city": "Seattle, WA",
+   "venue": "The Vera Project"
+  },
+  {
    "event_id": "1038990056",
    "artist_id": "10907298",
    "day": "2026-10-23",
@@ -797,6 +811,34 @@
    "day": "2026-10-24",
    "city": "Tempe, AZ",
    "venue": "Marquee Theatre"
+  },
+  {
+   "event_id": "1038983725",
+   "artist_id": "10907298",
+   "day": "2026-10-27",
+   "city": "San Antonio, TX",
+   "venue": "The Rock Box"
+  },
+  {
+   "event_id": "1038989845",
+   "artist_id": "10907298",
+   "day": "2026-10-28",
+   "city": "Dallas, TX",
+   "venue": "House of Blues Dallas"
+  },
+  {
+   "event_id": "1038990054",
+   "artist_id": "10907298",
+   "day": "2026-10-29",
+   "city": "Houston, TX",
+   "venue": "House of Blues Houston"
+  },
+  {
+   "event_id": "1038989872",
+   "artist_id": "10907298",
+   "day": "2026-10-30",
+   "city": "New Orleans, LA",
+   "venue": "House of Blues New Orleans"
   }
  ]
 }
