@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-18T10:13:14.282Z",
- "showsUpdated": "2026-10-16T14:24:11Z",
+ "generated": "2026-10-19T10:13:14.241Z",
+ "showsUpdated": "2026-10-18T13:01:55Z",
  "roster": [
   {
    "id": "99040",
@@ -414,18 +414,18 @@
    "venue": "House of Blues New Orleans"
   },
   {
-   "event_id": "107702252",
-   "artist_id": "29919",
-   "day": "2026-10-16",
-   "city": "Köln, Germany",
-   "venue": "E-Werk"
+   "event_id": "108369116",
+   "artist_id": "1780",
+   "day": "2026-10-31",
+   "city": "Pensacola, FL",
+   "venue": "Vinyl Music Hall"
   },
   {
-   "event_id": "107702254",
-   "artist_id": "29919",
-   "day": "2026-10-17",
-   "city": "Antwerpen, Belgium",
-   "venue": "Kavka Zappa"
+   "event_id": "108369136",
+   "artist_id": "1780",
+   "day": "2026-11-01",
+   "city": "Orlando, FL",
+   "venue": "House of Blues Restaurant & Bar"
   },
   {
    "event_id": "107702260",
@@ -477,18 +477,11 @@
    "venue": "DCU Center"
   },
   {
-   "event_id": "108983852",
-   "artist_id": "59542",
-   "day": "2026-10-16",
-   "city": "Massapequa, NY",
-   "venue": "VFW Post # 7277"
-  },
-  {
-   "event_id": "108983859",
-   "artist_id": "59542",
-   "day": "2026-10-17",
-   "city": "Garwood, NJ",
-   "venue": "Crossroads"
+   "event_id": "1039219287",
+   "artist_id": "29919",
+   "day": "2026-10-31",
+   "city": "Philadelphia, PA",
+   "venue": "Xfinity Mobile Arena"
   },
   {
    "event_id": "108782984",
@@ -496,6 +489,13 @@
    "day": "2026-10-30",
    "city": "Cape Town, South Africa",
    "venue": "Castle of Good Hope"
+  },
+  {
+   "event_id": "108782986",
+   "artist_id": "99040",
+   "day": "2026-10-31",
+   "city": "Pretoria, South Africa",
+   "venue": "Heartfelt Arena"
   },
   {
    "event_id": "108540298",
@@ -547,18 +547,11 @@
    "venue": "Marquee Theatre"
   },
   {
-   "event_id": "108286629",
-   "artist_id": "385700",
-   "day": "2026-10-16",
-   "city": "Manchester, United Kingdom",
-   "venue": "Rebellion"
-  },
-  {
-   "event_id": "108286631",
-   "artist_id": "385700",
-   "day": "2026-10-17",
-   "city": "London, United Kingdom",
-   "venue": "The Dome"
+   "event_id": "108508772",
+   "artist_id": "208422",
+   "day": "2026-10-31",
+   "city": "Riverside, CA",
+   "venue": "Riverside Municipal Auditorium"
   },
   {
    "event_id": "108286636",
@@ -638,6 +631,20 @@
    "venue": "KIFF"
   },
   {
+   "event_id": "108286699",
+   "artist_id": "385700",
+   "day": "2026-10-31",
+   "city": "Köln, Germany",
+   "venue": "Helios 37"
+  },
+  {
+   "event_id": "108286709",
+   "artist_id": "385700",
+   "day": "2026-11-01",
+   "city": "Wiesbaden, Germany",
+   "venue": "Schlachthof Wiesbaden"
+  },
+  {
    "event_id": "108362862",
    "artist_id": "484706",
    "day": "2026-10-23",
@@ -687,46 +694,18 @@
    "venue": "House of Blues New Orleans"
   },
   {
-   "event_id": "108693889",
-   "artist_id": "572295",
-   "day": "2026-10-16",
-   "city": "Springfield, MO",
-   "venue": "Moontown Sound"
+   "event_id": "108362887",
+   "artist_id": "484706",
+   "day": "2026-10-31",
+   "city": "Pensacola, FL",
+   "venue": "Vinyl Music Hall"
   },
   {
-   "event_id": "108802966",
-   "artist_id": "572295",
-   "day": "2026-10-17",
-   "city": "Nashville, TN",
-   "venue": "Cannery Hall"
-  },
-  {
-   "event_id": "108927120",
-   "artist_id": "1460954",
-   "day": "2026-10-17",
-   "city": "Nashville, TN",
-   "venue": "Cannery Hall"
-  },
-  {
-   "event_id": "108558524",
-   "artist_id": "1710599",
-   "day": "2026-10-17",
-   "city": "Nashville, TN",
-   "venue": "Cannery Hall"
-  },
-  {
-   "event_id": "108868668",
-   "artist_id": "8475583",
-   "day": "2026-10-16",
-   "city": "Toronto, ON",
-   "venue": "Hard Luck Bar"
-  },
-  {
-   "event_id": "108868669",
-   "artist_id": "8475583",
-   "day": "2026-10-17",
-   "city": "New Kensington, PA",
-   "venue": "Preserving"
+   "event_id": "108362869",
+   "artist_id": "484706",
+   "day": "2026-11-01",
+   "city": "Lake Buena Vista, FL",
+   "venue": "House of Blues Gear Shop Orlando"
   },
   {
    "event_id": "108868674",
@@ -799,6 +778,20 @@
    "venue": "The Vera Project"
   },
   {
+   "event_id": "108868702",
+   "artist_id": "8475583",
+   "day": "2026-10-31",
+   "city": "Berkeley, CA",
+   "venue": "924 Gilman"
+  },
+  {
+   "event_id": "108868706",
+   "artist_id": "8475583",
+   "day": "2026-11-01",
+   "city": "Sacramento, CA",
+   "venue": "Harlow's"
+  },
+  {
    "event_id": "1038990056",
    "artist_id": "10907298",
    "day": "2026-10-23",
@@ -839,6 +832,20 @@
    "day": "2026-10-30",
    "city": "New Orleans, LA",
    "venue": "House of Blues New Orleans"
+  },
+  {
+   "event_id": "1038983175",
+   "artist_id": "10907298",
+   "day": "2026-10-31",
+   "city": "Pensacola, FL",
+   "venue": "Vinyl Music Hall"
+  },
+  {
+   "event_id": "1038990775",
+   "artist_id": "10907298",
+   "day": "2026-11-01",
+   "city": "Lake Buena Vista, FL",
+   "venue": "House of Blues Orlando"
   }
  ]
 }
