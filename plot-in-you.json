@@ -566,5 +566,514 @@
     "listeners": 38676
    }
   ]
+ },
+ "tour": {
+  "title": "2027 world tour",
+  "shows": [
+   {
+    "day": "2027-03-12",
+    "city": "St. Louis",
+    "region": "MO",
+    "country": "US",
+    "lat": 38.627,
+    "lng": -90.199,
+    "leg": "North America"
+   },
+   {
+    "day": "2027-03-13",
+    "city": "Milwaukee",
+    "region": "WI",
+    "country": "US",
+    "lat": 43.039,
+    "lng": -87.906,
+    "leg": "North America"
+   },
+   {
+    "day": "2027-03-14",
+    "city": "St. Paul",
+    "region": "MN",
+    "country": "US",
+    "lat": 44.954,
+    "lng": -93.09,
+    "leg": "North America"
+   },
+   {
+    "day": "2027-03-16",
+    "city": "Denver",
+    "region": "CO",
+    "country": "US",
+    "lat": 39.739,
+    "lng": -104.99,
+    "leg": "North America"
+   },
+   {
+    "day": "2027-03-17",
+    "city": "Salt Lake City",
+    "region": "UT",
+    "country": "US",
+    "lat": 40.761,
+    "lng": -111.891,
+    "leg": "North America"
+   },
+   {
+    "day": "2027-03-19",
+    "city": "Wheatland",
+    "region": "CA",
+    "country": "US",
+    "lat": 39.01,
+    "lng": -121.423,
+    "leg": "North America"
+   },
+   {
+    "day": "2027-03-20",
+    "city": "Los Angeles",
+    "region": "CA",
+    "country": "US",
+    "lat": 34.052,
+    "lng": -118.244,
+    "leg": "North America"
+   },
+   {
+    "day": "2027-03-21",
+    "city": "Las Vegas",
+    "region": "NV",
+    "country": "US",
+    "lat": 36.17,
+    "lng": -115.14,
+    "leg": "North America"
+   },
+   {
+    "day": "2027-03-23",
+    "city": "Phoenix",
+    "region": "AZ",
+    "country": "US",
+    "lat": 33.448,
+    "lng": -112.074,
+    "leg": "North America"
+   },
+   {
+    "day": "2027-03-26",
+    "city": "Dallas",
+    "region": "TX",
+    "country": "US",
+    "lat": 32.777,
+    "lng": -96.797,
+    "leg": "North America"
+   },
+   {
+    "day": "2027-03-27",
+    "city": "Austin",
+    "region": "TX",
+    "country": "US",
+    "lat": 30.267,
+    "lng": -97.743,
+    "leg": "North America"
+   },
+   {
+    "day": "2027-03-28",
+    "city": "Houston",
+    "region": "TX",
+    "country": "US",
+    "lat": 29.76,
+    "lng": -95.37,
+    "leg": "North America"
+   },
+   {
+    "day": "2027-03-30",
+    "city": "Orlando",
+    "region": "FL",
+    "country": "US",
+    "lat": 28.538,
+    "lng": -81.379,
+    "leg": "North America"
+   },
+   {
+    "day": "2027-04-01",
+    "city": "Baltimore",
+    "region": "MD",
+    "country": "US",
+    "lat": 39.29,
+    "lng": -76.612,
+    "leg": "North America"
+   },
+   {
+    "day": "2027-04-02",
+    "city": "Philadelphia",
+    "region": "PA",
+    "country": "US",
+    "lat": 39.953,
+    "lng": -75.165,
+    "leg": "North America"
+   },
+   {
+    "day": "2027-04-03",
+    "city": "Boston",
+    "region": "MA",
+    "country": "US",
+    "lat": 42.36,
+    "lng": -71.059,
+    "leg": "North America"
+   },
+   {
+    "day": "2027-04-04",
+    "city": "New York",
+    "region": "NY",
+    "country": "US",
+    "lat": 40.713,
+    "lng": -74.006,
+    "leg": "North America"
+   },
+   {
+    "day": "2027-04-06",
+    "city": "Laval",
+    "region": "QC",
+    "country": "CA",
+    "lat": 45.607,
+    "lng": -73.712,
+    "leg": "North America"
+   },
+   {
+    "day": "2027-04-07",
+    "city": "Toronto",
+    "region": "ON",
+    "country": "CA",
+    "lat": 43.653,
+    "lng": -79.383,
+    "leg": "North America"
+   },
+   {
+    "day": "2027-04-09",
+    "city": "Buffalo",
+    "region": "NY",
+    "country": "US",
+    "lat": 42.886,
+    "lng": -78.878,
+    "leg": "North America"
+   },
+   {
+    "day": "2027-04-10",
+    "city": "Pittsburgh",
+    "region": "PA",
+    "country": "US",
+    "lat": 40.441,
+    "lng": -79.996,
+    "leg": "North America"
+   },
+   {
+    "day": "2027-04-12",
+    "city": "Kansas City",
+    "region": "MO",
+    "country": "US",
+    "lat": 39.1,
+    "lng": -94.578,
+    "leg": "North America"
+   },
+   {
+    "day": "2027-04-13",
+    "city": "Omaha",
+    "region": "NE",
+    "country": "US",
+    "lat": 41.257,
+    "lng": -95.935,
+    "leg": "North America"
+   },
+   {
+    "day": "2027-04-15",
+    "city": "Chicago",
+    "region": "IL",
+    "country": "US",
+    "lat": 41.878,
+    "lng": -87.63,
+    "leg": "North America"
+   },
+   {
+    "day": "2027-04-16",
+    "city": "Detroit",
+    "region": "MI",
+    "country": "US",
+    "lat": 42.331,
+    "lng": -83.046,
+    "leg": "North America"
+   },
+   {
+    "day": "2027-04-17",
+    "city": "Fort Wayne",
+    "region": "IN",
+    "country": "US",
+    "lat": 41.079,
+    "lng": -85.139,
+    "leg": "North America"
+   },
+   {
+    "day": "2027-04-18",
+    "city": "Nashville",
+    "region": "TN",
+    "country": "US",
+    "lat": 36.163,
+    "lng": -86.781,
+    "leg": "North America"
+   },
+   {
+    "day": "2027-10-09",
+    "city": "Perth",
+    "region": "WA",
+    "country": "AU",
+    "lat": -31.95,
+    "lng": 115.86,
+    "leg": "Australia"
+   },
+   {
+    "day": "2027-10-12",
+    "city": "Adelaide",
+    "region": "SA",
+    "country": "AU",
+    "lat": -34.929,
+    "lng": 138.601,
+    "leg": "Australia"
+   },
+   {
+    "day": "2027-10-14",
+    "city": "Melbourne",
+    "region": "VIC",
+    "country": "AU",
+    "lat": -37.814,
+    "lng": 144.963,
+    "leg": "Australia"
+   },
+   {
+    "day": "2027-10-15",
+    "city": "Sydney",
+    "region": "NSW",
+    "country": "AU",
+    "lat": -33.869,
+    "lng": 151.209,
+    "leg": "Australia"
+   },
+   {
+    "day": "2027-10-17",
+    "city": "Brisbane",
+    "region": "QLD",
+    "country": "AU",
+    "lat": -27.47,
+    "lng": 153.026,
+    "leg": "Australia"
+   },
+   {
+    "day": "2027-11-11",
+    "city": "Hamburg",
+    "region": null,
+    "country": "DE",
+    "lat": 53.551,
+    "lng": 9.994,
+    "leg": "Europe & UK"
+   },
+   {
+    "day": "2027-11-12",
+    "city": "Düsseldorf",
+    "region": null,
+    "country": "DE",
+    "lat": 51.228,
+    "lng": 6.774,
+    "leg": "Europe & UK"
+   },
+   {
+    "day": "2027-11-13",
+    "city": "Brussels",
+    "region": null,
+    "country": "BE",
+    "lat": 50.85,
+    "lng": 4.352,
+    "leg": "Europe & UK"
+   },
+   {
+    "day": "2027-11-14",
+    "city": "Tilburg",
+    "region": null,
+    "country": "NL",
+    "lat": 51.556,
+    "lng": 5.091,
+    "leg": "Europe & UK"
+   },
+   {
+    "day": "2027-11-16",
+    "city": "Manchester",
+    "region": null,
+    "country": "GB",
+    "lat": 53.481,
+    "lng": -2.243,
+    "leg": "Europe & UK"
+   },
+   {
+    "day": "2027-11-17",
+    "city": "Glasgow",
+    "region": null,
+    "country": "GB",
+    "lat": 55.864,
+    "lng": -4.252,
+    "leg": "Europe & UK"
+   },
+   {
+    "day": "2027-11-18",
+    "city": "Bristol",
+    "region": null,
+    "country": "GB",
+    "lat": 51.455,
+    "lng": -2.588,
+    "leg": "Europe & UK"
+   },
+   {
+    "day": "2027-11-19",
+    "city": "Birmingham",
+    "region": null,
+    "country": "GB",
+    "lat": 52.486,
+    "lng": -1.89,
+    "leg": "Europe & UK"
+   },
+   {
+    "day": "2027-11-21",
+    "city": "London",
+    "region": null,
+    "country": "GB",
+    "lat": 51.507,
+    "lng": -0.128,
+    "leg": "Europe & UK"
+   },
+   {
+    "day": "2027-11-23",
+    "city": "Paris",
+    "region": null,
+    "country": "FR",
+    "lat": 48.857,
+    "lng": 2.352,
+    "leg": "Europe & UK"
+   },
+   {
+    "day": "2027-11-25",
+    "city": "Madrid",
+    "region": null,
+    "country": "ES",
+    "lat": 40.417,
+    "lng": -3.704,
+    "leg": "Europe & UK"
+   },
+   {
+    "day": "2027-11-26",
+    "city": "Barcelona",
+    "region": null,
+    "country": "ES",
+    "lat": 41.385,
+    "lng": 2.173,
+    "leg": "Europe & UK"
+   },
+   {
+    "day": "2027-11-27",
+    "city": "Lyon",
+    "region": null,
+    "country": "FR",
+    "lat": 45.764,
+    "lng": 4.836,
+    "leg": "Europe & UK"
+   },
+   {
+    "day": "2027-11-29",
+    "city": "Zürich",
+    "region": null,
+    "country": "CH",
+    "lat": 47.377,
+    "lng": 8.541,
+    "leg": "Europe & UK"
+   },
+   {
+    "day": "2027-11-30",
+    "city": "Munich",
+    "region": null,
+    "country": "DE",
+    "lat": 48.135,
+    "lng": 11.582,
+    "leg": "Europe & UK"
+   },
+   {
+    "day": "2027-12-01",
+    "city": "Vienna",
+    "region": null,
+    "country": "AT",
+    "lat": 48.208,
+    "lng": 16.374,
+    "leg": "Europe & UK"
+   },
+   {
+    "day": "2027-12-03",
+    "city": "Leipzig",
+    "region": null,
+    "country": "DE",
+    "lat": 51.34,
+    "lng": 12.375,
+    "leg": "Europe & UK"
+   },
+   {
+    "day": "2027-12-04",
+    "city": "Prague",
+    "region": null,
+    "country": "CZ",
+    "lat": 50.076,
+    "lng": 14.438,
+    "leg": "Europe & UK"
+   },
+   {
+    "day": "2027-12-05",
+    "city": "Offenbach",
+    "region": null,
+    "country": "DE",
+    "lat": 50.096,
+    "lng": 8.776,
+    "leg": "Europe & UK"
+   },
+   {
+    "day": "2027-12-07",
+    "city": "Copenhagen",
+    "region": null,
+    "country": "DK",
+    "lat": 55.676,
+    "lng": 12.568,
+    "leg": "Europe & UK"
+   },
+   {
+    "day": "2027-12-08",
+    "city": "Oslo",
+    "region": null,
+    "country": "NO",
+    "lat": 59.914,
+    "lng": 10.752,
+    "leg": "Europe & UK"
+   },
+   {
+    "day": "2027-12-09",
+    "city": "Stockholm",
+    "region": null,
+    "country": "SE",
+    "lat": 59.329,
+    "lng": 18.069,
+    "leg": "Europe & UK"
+   },
+   {
+    "day": "2027-12-11",
+    "city": "Tampere",
+    "region": null,
+    "country": "FI",
+    "lat": 61.498,
+    "lng": 23.761,
+    "leg": "Europe & UK"
+   },
+   {
+    "day": "2027-12-12",
+    "city": "Helsinki",
+    "region": null,
+    "country": "FI",
+    "lat": 60.17,
+    "lng": 24.938,
+    "leg": "Europe & UK"
+   }
+  ]
  }
 }

@@ -74,7 +74,25 @@ if (extrasFile) {
   } catch (err) { extrasNote = 'unreadable (' + err.message + '); kept previous'; }
 }
 
+// Optional tour map: tours/<same file name> lists announced shows (city, date, map coordinates; no venues).
+// It is copied in on every build, so the map survives the weekly rewrite. No file means no "tour" field.
+let tour = null, tourNote = 'none';
+const TOUR = path.join(__dirname, '..', 'tours', FILE);
+if (fs.existsSync(TOUR)) {
+  try {
+    const t = JSON.parse(fs.readFileSync(TOUR, 'utf8'));
+    const num = (v, lo, hi) => typeof v === 'number' && isFinite(v) && v >= lo && v <= hi;
+    const str = (v, max) => (typeof v === 'string' && v.trim() ? v.trim().slice(0, max) : null);
+    const shows = (t.shows || []).filter((s) => s && /^\d{4}-\d\d-\d\d$/.test(s.day) && str(s.city, 60) && num(s.lat, -90, 90) && num(s.lng, -180, 180))
+      .map((s) => ({ day: s.day, city: str(s.city, 60), region: str(s.region, 20), country: String(s.country || '').toUpperCase().slice(0, 2), lat: s.lat, lng: s.lng, leg: str(s.leg, 40) }))
+      .sort((x, y) => (x.day < y.day ? -1 : 1));
+    if (shows.length) { tour = { title: str(t.title, 60), shows }; tourNote = shows.length + ' shows'; }
+    else tourNote = 'no valid shows in tours/' + FILE + '; left out';
+  } catch (err) { tourNote = 'unreadable tours/' + FILE + ' (' + err.message + '); left out'; }
+}
+
 const data = { generated: new Date().toISOString(), artist: { id: ID, name: NAME }, metrics, history: history.slice(-160), extras };
+if (tour) data.tour = tour;
 fs.writeFileSync(OUT, JSON.stringify(data, null, 1) + '\n');
-console.log(JSON.stringify({ ok: true, metrics: n, monthlyListeners: metrics.sp_monthly_listeners.value, historyPoints: data.history.length, extras: extrasNote }));
+console.log(JSON.stringify({ ok: true, metrics: n, monthlyListeners: metrics.sp_monthly_listeners.value, historyPoints: data.history.length, extras: extrasNote, tour: tourNote }));
 };

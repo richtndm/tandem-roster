@@ -10,5 +10,6 @@
 //    "cities": [{"name", "country", "listeners"}]} copied from Chartmetric's top tracks and top Spotify
 //    cities. When it is left out or fails the checks, the extras already published are kept.
 //
-// Each run also adds one dated point to "history", which is what the trend charts are drawn from.
+// Each run also adds one dated point to "history", which is what the trend charts are drawn from,
+// and copies tours/plot-in-you.json (announced shows for the tour map) into "tour".
 require('./artist-page.js')({ id: '107586', name: 'The Plot In You', file: 'plot-in-you.json' });
