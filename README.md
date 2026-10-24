@@ -15,6 +15,8 @@ The page reads this file each time it opens.
 - `scripts/build-four-year-strong.js` builds `four-year-strong.json`.
 - `we-came-as-romans.json` holds the same stats for the public We Came As Romans stats page. It is
   rewritten every Tuesday morning by a scheduled Claude task, using `scripts/build-we-came-as-romans.js`.
+- `save-us.json` holds the same stats for the public Save Us stats page. It is rewritten every Monday
+  morning by a scheduled Claude task, using `scripts/build-save-us.js`.
 - `scripts/artist-page.js` is the shared code behind the single-artist build scripts.
 - `tours/plot-in-you.json` lists The Plot In You's announced 2027 shows (date, city, map coordinates; no
   venues) for the tour map. Each weekly build copies it into `plot-in-you.json` as `tour`; edit this file
