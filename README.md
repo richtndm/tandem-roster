@@ -19,6 +19,8 @@ The page reads this file each time it opens.
   morning by a scheduled Claude task, using `scripts/build-save-us.js`.
 - `like-moths-to-flames.json` holds the same stats for the public Like Moths To Flames stats page. It is
   rewritten every Monday morning by a scheduled Claude task, using `scripts/build-like-moths-to-flames.js`.
+- `pages/` holds the page code for stats pages that load it from here instead of pasting it whole into
+  Squarespace (the Squarespace block is then two lines). Served through jsDelivr.
 - `scripts/artist-page.js` is the shared code behind the single-artist build scripts.
 - `tours/plot-in-you.json` lists The Plot In You's announced 2027 shows (date, city, map coordinates; no
   venues) for the tour map. Each weekly build copies it into `plot-in-you.json` as `tour`; edit this file
