@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-03T11:13:21.071Z",
- "showsUpdated": "2026-11-02T12:36:47Z",
+ "generated": "2026-11-04T11:12:38.100Z",
+ "showsUpdated": "2026-11-04T11:00:30Z",
  "roster": [
   {
    "id": "99040",
@@ -365,13 +365,6 @@
  ],
  "shows": [
   {
-   "event_id": "108369140",
-   "artist_id": "1780",
-   "day": "2026-11-03",
-   "city": "Nashville, TN",
-   "venue": "Brooklyn Bowl Nashville"
-  },
-  {
    "event_id": "108369145",
    "artist_id": "1780",
    "day": "2026-11-04",
@@ -435,11 +428,18 @@
    "venue": "House of Blues Chicago"
   },
   {
-   "event_id": "1039212888",
-   "artist_id": "29919",
-   "day": "2026-11-03",
-   "city": "Raleigh, NC",
-   "venue": "Lenovo Center"
+   "event_id": "108369253",
+   "artist_id": "1780",
+   "day": "2026-11-17",
+   "city": "Milwaukee, WI",
+   "venue": "The Rave / Eagles Club"
+  },
+  {
+   "event_id": "108369256",
+   "artist_id": "1780",
+   "day": "2026-11-18",
+   "city": "Minneapolis, MN",
+   "venue": "The Fillmore Minneapolis"
   },
   {
    "event_id": "1039213803",
@@ -498,6 +498,13 @@
    "venue": "MVP Arena"
   },
   {
+   "event_id": "1039212634",
+   "artist_id": "29919",
+   "day": "2026-11-18",
+   "city": "Portland, ME",
+   "venue": "Cross Insurance Arena"
+  },
+  {
    "event_id": "108018021",
    "artist_id": "99040",
    "day": "2026-11-14",
@@ -510,6 +517,20 @@
    "day": "2026-11-16",
    "city": "Seattle, WA",
    "venue": "Showbox SoDo"
+  },
+  {
+   "event_id": "108706212",
+   "artist_id": "99040",
+   "day": "2026-11-17",
+   "city": "Spokane, WA",
+   "venue": "Knitting Factory - Spokane"
+  },
+  {
+   "event_id": "108706215",
+   "artist_id": "99040",
+   "day": "2026-11-18",
+   "city": "Portland, OR",
+   "venue": "McMenamins Crystal Ballroom"
   },
   {
    "event_id": "108759099",
@@ -575,18 +596,11 @@
    "venue": "Radio Room"
   },
   {
-   "event_id": "108508776",
-   "artist_id": "208422",
-   "day": "2026-11-02",
-   "city": "Albuquerque, NM",
-   "venue": "Revel Entertainment Center"
-  },
-  {
-   "event_id": "108508782",
-   "artist_id": "208422",
-   "day": "2026-11-03",
-   "city": "Oklahoma City, OK",
-   "venue": "Diamond Ballroom"
+   "event_id": "108759199",
+   "artist_id": "155926",
+   "day": "2026-11-18",
+   "city": "Charlotte, NC",
+   "venue": "The Underground"
   },
   {
    "event_id": "108508787",
@@ -652,6 +666,20 @@
    "venue": "HISTORY"
   },
   {
+   "event_id": "108508824",
+   "artist_id": "208422",
+   "day": "2026-11-17",
+   "city": "Buffalo, NY",
+   "venue": "Buffalo RiverWorks"
+  },
+  {
+   "event_id": "108508828",
+   "artist_id": "208422",
+   "day": "2026-11-18",
+   "city": "Huntington, NY",
+   "venue": "The Paramount"
+  },
+  {
    "event_id": "108734467",
    "artist_id": "216347",
    "day": "2026-11-14",
@@ -671,6 +699,13 @@
    "day": "2026-11-16",
    "city": "Boise, ID",
    "venue": "Neurolox"
+  },
+  {
+   "event_id": "108734465",
+   "artist_id": "216347",
+   "day": "2026-11-18",
+   "city": "Denver, CO",
+   "venue": "HQ"
   },
   {
    "event_id": "108505756",
@@ -736,11 +771,11 @@
    "venue": "Paramount Theatre"
   },
   {
-   "event_id": "108362875",
-   "artist_id": "484706",
-   "day": "2026-11-03",
-   "city": "Nashville, TN",
-   "venue": "Brooklyn Bowl Nashville"
+   "event_id": "108509138",
+   "artist_id": "470827",
+   "day": "2026-11-17",
+   "city": "Vancouver, BC",
+   "venue": "PNE Forum"
   },
   {
    "event_id": "108362864",
@@ -804,6 +839,20 @@
    "day": "2026-11-15",
    "city": "Chicago, IL",
    "venue": "House of Blues Chicago"
+  },
+  {
+   "event_id": "108362877",
+   "artist_id": "484706",
+   "day": "2026-11-17",
+   "city": "Milwaukee, WI",
+   "venue": "The Rave / Eagles Club"
+  },
+  {
+   "event_id": "108362870",
+   "artist_id": "484706",
+   "day": "2026-11-18",
+   "city": "Minneapolis, MN",
+   "venue": "The Fillmore Minneapolis"
   },
   {
    "event_id": "108998542",
@@ -883,13 +932,6 @@
    "venue": "Rat King Studios"
   },
   {
-   "event_id": "1038989819",
-   "artist_id": "10907298",
-   "day": "2026-11-03",
-   "city": "Nashville, TN",
-   "venue": "Brooklyn Bowl Nashville"
-  },
-  {
    "event_id": "1038990414",
    "artist_id": "10907298",
    "day": "2026-11-04",
@@ -923,6 +965,20 @@
    "day": "2026-11-15",
    "city": "Chicago, IL",
    "venue": "House of Blues Chicago"
+  },
+  {
+   "event_id": "1038983741",
+   "artist_id": "10907298",
+   "day": "2026-11-17",
+   "city": "Milwaukee, WI",
+   "venue": "The Rave / Eagles Club"
+  },
+  {
+   "event_id": "1038989908",
+   "artist_id": "10907298",
+   "day": "2026-11-18",
+   "city": "Minneapolis, MN",
+   "venue": "The Fillmore Minneapolis"
   }
  ]
 }
