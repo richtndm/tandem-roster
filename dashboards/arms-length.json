@@ -1,0 +1,81 @@
+{
+ "site": {
+  "name": "Arm's Length",
+  "stats": "arms-length.json",
+  "accent": "#f472b6",
+  "accentDeep": "#be185d",
+  "logo": "https://images.squarespace-cdn.com/content/v1/63c8bb34f81e0620090f40f4/d0c65d4d-6f8e-4a55-8aee-f5539b24e3d1/Tandem-Emblem-1.png?format=500w",
+  "photo": "https://images.squarespace-cdn.com/content/v1/63c8bb34f81e0620090f40f4/280d1e11-e4f9-4935-992f-af2c9d11be65/AL+SMALL+-+Richard+Fernandes.jpg?format=1500w",
+  "links": [
+   [
+    "Spotify",
+    "https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD"
+   ],
+   [
+    "Apple Music",
+    "https://music.apple.com/ca/artist/arms-length/1474016594"
+   ],
+   [
+    "Facebook",
+    "https://www.facebook.com/armslengthontario"
+   ],
+   [
+    "Instagram",
+    "https://www.instagram.com/armslengthblues"
+   ]
+  ],
+  "label": "Pure Noise Records",
+  "team": [
+   [
+    "Management",
+    [
+     [
+      "Richard Fernandes",
+      "",
+      "https://www.tandemmgmt.co/richard-fernandes"
+     ],
+     [
+      "Adam Clarke",
+      "",
+      "https://www.tandemmgmt.co/adam-clarke"
+     ]
+    ]
+   ],
+   [
+    "Label",
+    [
+     [
+      "Pure Noise Records",
+      "",
+      "https://www.purenoise.net/"
+     ]
+    ]
+   ],
+   [
+    "Booking",
+    [
+     [
+      "Jason Parent",
+      "ROW",
+      "https://soundtalentgroup.com/"
+     ],
+     [
+      "Morgan Lubber",
+      "ROW",
+      "https://soundtalentgroup.com/"
+     ],
+     [
+      "Tom Taaffee",
+      "UK/EU",
+      "https://teamwass.com"
+     ]
+    ]
+   ]
+  ],
+  "video": {
+   "id": "y3XqC9wDzPo",
+   "title": "Early Onset"
+  }
+ },
+ "shows": []
+}

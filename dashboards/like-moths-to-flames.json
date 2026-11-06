@@ -1,0 +1,154 @@
+{
+ "site": {
+  "name": "Like Moths To Flames",
+  "stats": "like-moths-to-flames.json",
+  "accent": "#e0a82e",
+  "accentDeep": "#a8761a",
+  "logo": "https://images.squarespace-cdn.com/content/v1/63c8bb34f81e0620090f40f4/d0c65d4d-6f8e-4a55-8aee-f5539b24e3d1/Tandem-Emblem-1.png?format=500w",
+  "photo": "https://images.squarespace-cdn.com/content/v1/63c8bb34f81e0620090f40f4/ac05e993-69c5-42ca-a367-53df42b1413d/LMTF+1+%28Credit+-+Aaron+Lutas%29+-+Richard+Fernandes.jpg?format=1500w",
+  "links": [
+   [
+    "Spotify",
+    "https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw"
+   ],
+   [
+    "Apple Music",
+    "https://music.apple.com/ca/artist/like-moths-to-flames/354095901"
+   ],
+   [
+    "Facebook",
+    "https://www.facebook.com/likemoths"
+   ],
+   [
+    "Instagram",
+    "https://www.instagram.com/lmtf"
+   ]
+  ],
+  "label": "UNFD",
+  "team": [
+   [
+    "Management",
+    [
+     [
+      "Richard Fernandes",
+      "",
+      "https://www.tandemmgmt.co/richard-fernandes"
+     ],
+     [
+      "Adam Clarke",
+      "",
+      "https://www.tandemmgmt.co/adam-clarke"
+     ]
+    ]
+   ],
+   [
+    "Label",
+    [
+     [
+      "UNFD",
+      "",
+      "https://unfdcentral.com/"
+     ]
+    ]
+   ],
+   [
+    "Booking",
+    [
+     [
+      "Eric Powell",
+      "",
+      "https://soundtalentgroup.com/"
+     ]
+    ]
+   ]
+  ],
+  "video": null
+ },
+ "shows": [
+  {
+   "day": "2026-11-06",
+   "city": "Sayreville, NJ",
+   "venue": "Starland Ballroom"
+  },
+  {
+   "day": "2026-11-07",
+   "city": "New York, NY",
+   "venue": "Webster Hall"
+  },
+  {
+   "day": "2026-11-08",
+   "city": "Worcester, MA",
+   "venue": "The Palladium"
+  },
+  {
+   "day": "2026-11-10",
+   "city": "Philadelphia, PA",
+   "venue": "Brooklyn Bowl Philadelphia"
+  },
+  {
+   "day": "2026-11-11",
+   "city": "Baltimore, MD",
+   "venue": "Nevermore Hall"
+  },
+  {
+   "day": "2026-11-13",
+   "city": "Buffalo, NY",
+   "venue": "Town Ballroom"
+  },
+  {
+   "day": "2026-11-14",
+   "city": "Detroit, MI",
+   "venue": "The Majestic Theatre"
+  },
+  {
+   "day": "2026-11-15",
+   "city": "Chicago, IL",
+   "venue": "House of Blues"
+  },
+  {
+   "day": "2026-11-17",
+   "city": "Milwaukee, WI",
+   "venue": "The Rave/Eagles Ballroom"
+  },
+  {
+   "day": "2026-11-18",
+   "city": "Minneapolis, MN",
+   "venue": "The Fillmore Minneapolis"
+  },
+  {
+   "day": "2026-11-20",
+   "city": "Denver, CO",
+   "venue": "Summit Music Hall"
+  },
+  {
+   "day": "2026-11-21",
+   "city": "Salt Lake City, UT",
+   "venue": "Rockwell at The Complex"
+  },
+  {
+   "day": "2026-11-22",
+   "city": "Boise, ID",
+   "venue": "Knitting Factory Concert House"
+  },
+  {
+   "day": "2026-11-24",
+   "city": "Seattle, WA",
+   "venue": "Showbox SoDo"
+  },
+  {
+   "day": "2026-11-25",
+   "city": "Portland, OR",
+   "venue": "Roseland Theater"
+  },
+  {
+   "day": "2026-11-27",
+   "city": "Los Angeles, CA",
+   "venue": "The Novo"
+  },
+  {
+   "day": "2026-11-28",
+   "city": "San Diego, CA",
+   "venue": "Soma"
+  }
+ ]
+}

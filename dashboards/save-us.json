@@ -1,0 +1,162 @@
+{
+ "site": {
+  "name": "Save Us",
+  "stats": "save-us.json",
+  "accent": "#60a5fa",
+  "accentDeep": "#1d4ed8",
+  "logo": "https://images.squarespace-cdn.com/content/v1/63c8bb34f81e0620090f40f4/d0c65d4d-6f8e-4a55-8aee-f5539b24e3d1/Tandem-Emblem-1.png?format=500w",
+  "photo": "https://images.squarespace-cdn.com/content/v1/63c8bb34f81e0620090f40f4/bdd3736f-2127-4b59-b14a-40b4eebdc256/SaveUs_5.07.26_AlexBemis-00350.jpg?format=1500w",
+  "links": [
+   [
+    "Spotify",
+    "https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1"
+   ],
+   [
+    "Apple Music",
+    "https://music.apple.com/us/artist/save-us/1698971562"
+   ],
+   [
+    "Facebook",
+    "https://www.facebook.com/saveustheband/"
+   ],
+   [
+    "Instagram",
+    "https://www.instagram.com/saveus.band/"
+   ]
+  ],
+  "label": "Solid State Records",
+  "team": [
+   [
+    "Management",
+    [
+     [
+      "Richard Fernandes",
+      "",
+      "https://www.tandemmgmt.co/richard-fernandes"
+     ],
+     [
+      "Danny Harvey",
+      "",
+      "https://www.tandemmgmt.co/danny-harvey"
+     ]
+    ]
+   ],
+   [
+    "Label",
+    [
+     [
+      "Solid State Records",
+      "",
+      "https://www.solidstaterecords.com/"
+     ]
+    ]
+   ],
+   [
+    "Booking",
+    [
+     [
+      "Matt Anderson",
+      "ROW",
+      "https://soundtalentgroup.com/"
+     ],
+     [
+      "Marco Walzel",
+      "EU/UK",
+      "https://www.avocadobooking.com/avocms/"
+     ]
+    ]
+   ]
+  ],
+  "video": {
+   "id": "PvRh1zwGKJ4",
+   "title": "Last Of Me"
+  }
+ },
+ "shows": [
+  {
+   "day": "2026-11-06",
+   "city": "Sayreville, NJ",
+   "venue": "Starland Ballroom"
+  },
+  {
+   "day": "2026-11-07",
+   "city": "New York, NY",
+   "venue": "Webster Hall"
+  },
+  {
+   "day": "2026-11-08",
+   "city": "Worcester, MA",
+   "venue": "The Palladium"
+  },
+  {
+   "day": "2026-11-10",
+   "city": "Philadelphia, PA",
+   "venue": "Brooklyn Bowl Philadelphia"
+  },
+  {
+   "day": "2026-11-11",
+   "city": "Baltimore, MD",
+   "venue": "Nevermore Hall"
+  },
+  {
+   "day": "2026-11-13",
+   "city": "Buffalo, NY",
+   "venue": "Town Ballroom"
+  },
+  {
+   "day": "2026-11-14",
+   "city": "Detroit, MI",
+   "venue": "The Majestic Theatre"
+  },
+  {
+   "day": "2026-11-15",
+   "city": "Chicago, IL",
+   "venue": "House of Blues"
+  },
+  {
+   "day": "2026-11-17",
+   "city": "Milwaukee, WI",
+   "venue": "The Rave/Eagles Ballroom"
+  },
+  {
+   "day": "2026-11-18",
+   "city": "Minneapolis, MN",
+   "venue": "The Fillmore Minneapolis"
+  },
+  {
+   "day": "2026-11-20",
+   "city": "Denver, CO",
+   "venue": "Summit Music Hall"
+  },
+  {
+   "day": "2026-11-21",
+   "city": "Salt Lake City, UT",
+   "venue": "Rockwell at The Complex"
+  },
+  {
+   "day": "2026-11-22",
+   "city": "Boise, ID",
+   "venue": "Knitting Factory Concert House"
+  },
+  {
+   "day": "2026-11-24",
+   "city": "Seattle, WA",
+   "venue": "Showbox SoDo"
+  },
+  {
+   "day": "2026-11-25",
+   "city": "Portland, OR",
+   "venue": "Roseland Theater"
+  },
+  {
+   "day": "2026-11-27",
+   "city": "Los Angeles, CA",
+   "venue": "The Novo"
+  },
+  {
+   "day": "2026-11-28",
+   "city": "San Diego, CA",
+   "venue": "Soma"
+  }
+ ]
+}

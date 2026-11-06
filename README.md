@@ -27,3 +27,10 @@ The page reads this file each time it opens.
   to change the dates. Any artist can get one by adding `tours/<its json file name>`.
 
 Everything in this repository is public. Nothing private (sales, contracts, contact details) belongs here.
+
+## Artist dashboards
+
+`pages/artist-dashboard.js` is the one-page dashboard for each band, loaded by a two-line Squarespace block
+with `data-band="<slug>"`. `dashboards/<slug>.json` holds that band's Tandem site details, latest video and
+public show listings; its stats come from the band's stats file, and the next 14 days of shows from `data.json`.
+`scripts/set-dashboard.js` updates the shows or video. Only announced, public information belongs here.

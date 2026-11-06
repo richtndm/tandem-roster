@@ -1,0 +1,237 @@
+{
+ "site": {
+  "name": "Four Year Strong",
+  "stats": "four-year-strong.json",
+  "accent": "#4ade80",
+  "accentDeep": "#16803c",
+  "logo": "https://images.squarespace-cdn.com/content/v1/63c8bb34f81e0620090f40f4/d0c65d4d-6f8e-4a55-8aee-f5539b24e3d1/Tandem-Emblem-1.png?format=500w",
+  "photo": "https://images.squarespace-cdn.com/content/v1/63c8bb34f81e0620090f40f4/33b016a7-a2bc-4aee-89ac-92e40b39b52e/FYS+-+Richard+Fernandes.JPG?format=1500w",
+  "links": [
+   [
+    "Spotify",
+    "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
+   ],
+   [
+    "Apple Music",
+    "https://music.apple.com/ca/artist/four-year-strong/192476371"
+   ],
+   [
+    "Facebook",
+    "https://www.facebook.com/fouryearstrong"
+   ],
+   [
+    "Instagram",
+    "https://www.instagram.com/fouryearstrong"
+   ]
+  ],
+  "label": "Pure Noise Records",
+  "team": [
+   [
+    "Management",
+    [
+     [
+      "Richard Fernandes",
+      "",
+      "https://www.tandemmgmt.co/richard-fernandes"
+     ]
+    ]
+   ],
+   [
+    "Label",
+    [
+     [
+      "Pure Noise Records",
+      "",
+      "https://www.purenoise.net/"
+     ]
+    ]
+   ],
+   [
+    "Booking",
+    [
+     [
+      "Matt Anderson",
+      "ROW",
+      "https://soundtalentgroup.com/"
+     ],
+     [
+      "Jason Parent",
+      "ROW",
+      "https://soundtalentgroup.com/"
+     ],
+     [
+      "Mark Ngui",
+      "UK/EU",
+      "https://caa.com"
+     ],
+     [
+      "David Ball",
+      "UK/EU",
+      "https://caa.com"
+     ]
+    ]
+   ]
+  ],
+  "video": {
+   "id": "oKO4pjC-P-w",
+   "title": "WHIPLASH"
+  }
+ },
+ "shows": [
+  {
+   "day": "2027-03-20",
+   "city": "Buffalo, NY",
+   "venue": "Electric City"
+  },
+  {
+   "day": "2027-03-21",
+   "city": "McKees Rocks, PA",
+   "venue": "Roxian Theatre"
+  },
+  {
+   "day": "2027-03-23",
+   "city": "Lakewood, OH",
+   "venue": "The Roxy at Mahall's"
+  },
+  {
+   "day": "2027-03-24",
+   "city": "Detroit, MI",
+   "venue": "The Majestic Theatre"
+  },
+  {
+   "day": "2027-03-26",
+   "city": "Milwaukee, WI",
+   "venue": "The Rave/Eagles Ballroom"
+  },
+  {
+   "day": "2027-03-27",
+   "city": "Chicago, IL",
+   "venue": "House of Blues"
+  },
+  {
+   "day": "2027-03-28",
+   "city": "Minneapolis, MN",
+   "venue": "Varsity Theater"
+  },
+  {
+   "day": "2027-03-30",
+   "city": "Denver, CO",
+   "venue": "Summit Music Hall"
+  },
+  {
+   "day": "2027-04-01",
+   "city": "Salt Lake City, UT",
+   "venue": "The Depot"
+  },
+  {
+   "day": "2027-04-02",
+   "city": "Boise, ID",
+   "venue": "Knitting Factory Concert House"
+  },
+  {
+   "day": "2027-04-03",
+   "city": "Seattle, WA",
+   "venue": "El Corazon"
+  },
+  {
+   "day": "2027-04-04",
+   "city": "Portland, OR",
+   "venue": "Roseland Theater"
+  },
+  {
+   "day": "2027-04-06",
+   "city": "Berkeley, CA",
+   "venue": "Cornerstone"
+  },
+  {
+   "day": "2027-04-07",
+   "city": "San Diego, CA",
+   "venue": "House of Blues"
+  },
+  {
+   "day": "2027-04-09",
+   "city": "Santa Ana, CA",
+   "venue": "The Observatory"
+  },
+  {
+   "day": "2027-04-10",
+   "city": "Los Angeles, CA",
+   "venue": "Echoplex"
+  },
+  {
+   "day": "2027-04-11",
+   "city": "Mesa, AZ",
+   "venue": "Nile Theater"
+  },
+  {
+   "day": "2027-04-13",
+   "city": "San Antonio, TX",
+   "venue": "The Rock Box"
+  },
+  {
+   "day": "2027-04-14",
+   "city": "Dallas, TX",
+   "venue": "The Studio at The Factory"
+  },
+  {
+   "day": "2027-04-16",
+   "city": "Nashville, TN",
+   "venue": "Brooklyn Bowl"
+  },
+  {
+   "day": "2027-04-17",
+   "city": "Atlanta, GA",
+   "venue": "The Masquerade"
+  },
+  {
+   "day": "2027-04-18",
+   "city": "Jacksonville, FL",
+   "venue": "FIVE"
+  },
+  {
+   "day": "2027-04-20",
+   "city": "Fort Lauderdale, FL",
+   "venue": "Revolution Live"
+  },
+  {
+   "day": "2027-04-21",
+   "city": "Orlando, FL",
+   "venue": "House of Blues"
+  },
+  {
+   "day": "2027-04-23",
+   "city": "Charlotte, NC",
+   "venue": "The Underground"
+  },
+  {
+   "day": "2027-04-24",
+   "city": "Baltimore, MD",
+   "venue": "Baltimore Soundstage"
+  },
+  {
+   "day": "2027-04-25",
+   "city": "Philadelphia, PA",
+   "venue": "Theatre of Living Arts"
+  },
+  {
+   "day": "2027-04-27",
+   "city": "Asbury Park, NJ",
+   "venue": "The Stone Pony"
+  },
+  {
+   "day": "2027-04-28",
+   "city": "New York, NY",
+   "venue": "Irving Plaza"
+  },
+  {
+   "day": "2027-04-29",
+   "city": "Albany, NY",
+   "venue": "Empire Live"
+  },
+  {
+   "day": "2027-04-30",
+   "city": "Boston, MA",
+   "venue": "House of Blues"
+  }
+ ]
+}

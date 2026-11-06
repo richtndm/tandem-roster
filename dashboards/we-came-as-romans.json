@@ -1,0 +1,117 @@
+{
+ "site": {
+  "name": "We Came As Romans",
+  "stats": "we-came-as-romans.json",
+  "accent": "#a78bfa",
+  "accentDeep": "#6d4fd1",
+  "logo": "https://images.squarespace-cdn.com/content/v1/63c8bb34f81e0620090f40f4/d0c65d4d-6f8e-4a55-8aee-f5539b24e3d1/Tandem-Emblem-1.png?format=500w",
+  "photo": "https://images.squarespace-cdn.com/content/v1/63c8bb34f81e0620090f40f4/52d1014a-6195-404a-b041-7a94ddcd6cbf/WCAR_JW_2025_109_proof.JPEG?format=1500w",
+  "links": [
+   [
+    "Spotify",
+    "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
+   ],
+   [
+    "Apple Music",
+    "https://music.apple.com/us/artist/we-came-as-romans/314821088"
+   ],
+   [
+    "Facebook",
+    "https://www.facebook.com/wecameasromans/"
+   ],
+   [
+    "Instagram",
+    "https://www.instagram.com/wecameasromans/"
+   ]
+  ],
+  "label": "SharpTone Records",
+  "team": [
+   [
+    "Management",
+    [
+     [
+      "Richard Fernandes",
+      "",
+      "https://www.tandemmgmt.co/richard-fernandes"
+     ]
+    ]
+   ],
+   [
+    "Label",
+    [
+     [
+      "SharpTone Records",
+      "",
+      "https://sharptonerecords.co/"
+     ]
+    ]
+   ],
+   [
+    "Booking",
+    [
+     [
+      "Jake Zimmerman",
+      "ROW",
+      "https://the.team/"
+     ],
+     [
+      "Sharon Richardson",
+      "UK/EU",
+      "https://the.team/"
+     ]
+    ]
+   ]
+  ],
+  "video": {
+   "id": "hT8yChZ7we0",
+   "title": "Dead Silent (feat. Make Them Suffer)"
+  }
+ },
+ "shows": [
+  {
+   "day": "2026-11-20",
+   "city": "Silver Spring, MD",
+   "venue": "The Fillmore Silver Spring"
+  },
+  {
+   "day": "2026-11-21",
+   "city": "Philadelphia, PA",
+   "venue": "Franklin Music Hall"
+  },
+  {
+   "day": "2026-11-22",
+   "city": "Norfolk, VA",
+   "venue": "The NorVa"
+  },
+  {
+   "day": "2026-11-24",
+   "city": "Nashville, TN",
+   "venue": "Marathon Music Works"
+  },
+  {
+   "day": "2026-11-25",
+   "city": "Charlotte, NC",
+   "venue": "The Fillmore Charlotte"
+  },
+  {
+   "day": "2026-11-27",
+   "city": "Orlando, FL",
+   "venue": "Hard Rock Live"
+  },
+  {
+   "day": "2026-11-29",
+   "city": "Destin, FL",
+   "venue": "Club L.A."
+  },
+  {
+   "day": "2026-11-30",
+   "city": "Knoxville, TN",
+   "venue": "The Mill & Mine"
+  },
+  {
+   "day": "2027-01-22",
+   "city": "Miami, FL",
+   "venue": "E.N.D. Cruise (Port of Miami)"
+  }
+ ]
+}
