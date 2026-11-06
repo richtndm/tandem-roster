@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T01:20:11.778Z",
+ "generated": "2026-11-06T03:18:09.226Z",
  "artist": {
   "id": "107586",
   "name": "The Plot In You"
@@ -574,29 +574,29 @@
   ],
   "cities": [
    {
+    "name": "Chicago",
+    "country": "US",
+    "listeners": 43272
+   },
+   {
+    "name": "Brisbane",
+    "country": "AU",
+    "listeners": 42037
+   },
+   {
+    "name": "Dallas",
+    "country": "US",
+    "listeners": 40559
+   },
+   {
     "name": "Sydney",
     "country": "AU",
     "listeners": 40215
    },
    {
-    "name": "Toronto",
-    "country": "CA",
-    "listeners": 38182
-   },
-   {
-    "name": "Montréal",
-    "country": "CA",
-    "listeners": 38060
-   },
-   {
-    "name": "Berlin",
-    "country": "DE",
-    "listeners": 37835
-   },
-   {
-    "name": "Munich",
-    "country": "DE",
-    "listeners": 37537
+    "name": "London",
+    "country": "GB",
+    "listeners": 40131
    }
   ]
  },

@@ -69,6 +69,56 @@
  },
  "shows": [
   {
+   "day": "2026-11-06",
+   "city": "Madison, WI",
+   "venue": "The Sylvee"
+  },
+  {
+   "day": "2026-11-07",
+   "city": "St. Louis, MO",
+   "venue": "The Pageant"
+  },
+  {
+   "day": "2026-11-08",
+   "city": "Columbus, OH",
+   "venue": "KEMBA Live!"
+  },
+  {
+   "day": "2026-11-10",
+   "city": "Indianapolis, IN",
+   "venue": "Egyptian Room at Old National Centre"
+  },
+  {
+   "day": "2026-11-11",
+   "city": "Cincinnati, OH",
+   "venue": "The Andrew J Brady Music Center"
+  },
+  {
+   "day": "2026-11-13",
+   "city": "Wallingford, CT",
+   "venue": "The Dome at Toyota Oakdale Theatre"
+  },
+  {
+   "day": "2026-11-14",
+   "city": "Sayreville, NJ",
+   "venue": "Starland Ballroom"
+  },
+  {
+   "day": "2026-11-16",
+   "city": "Toronto, ON",
+   "venue": "History"
+  },
+  {
+   "day": "2026-11-17",
+   "city": "Buffalo, NY",
+   "venue": "Buffalo RiverWorks"
+  },
+  {
+   "day": "2026-11-18",
+   "city": "Huntington, NY",
+   "venue": "The Paramount"
+  },
+  {
    "day": "2026-11-20",
    "city": "Silver Spring, MD",
    "venue": "The Fillmore Silver Spring"
